@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 #
-# Description
+# Parse OntoSoft's software listing
+# and write in a CSV format
 #
 # Author: Karanjeet Singh
 # Created on: April 13, 2017
