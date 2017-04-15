@@ -1,2 +1,2 @@
 # drat-ontosoft
-DRAT on OntoSoft code repositories
+Running DRAT on OntoSoft code repositories
