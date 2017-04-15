@@ -1,0 +1,49 @@
+"Name","Description","Location"
+"Termite","Topic models aid analysis of text corpora by identifying latent topics based on co-occurring words. Real-world deployments of topic models, however, often require intensive expert verification and model refinement. In this paper we present Termite, a visual analysis tool for assessing topic model...","https://github.com/StanfordHCI/termite"
+"mk_monthly","This program reads the output file from the regridding program. It then generates monthly values for jan, feb ,mar,etc, that will be used together with PRISM data to scale the time series in each grid cell.","https://zenodo.org/record/22307#.V02yYPkrJD-"
+"mooring_all.pl","This software helps process mooring data collected by Kyeong Park at Dauphin Island Sea Lab, Alabama, for the Fisheries Oceanography in Coastal Alabama (FOCAL) program, which ran from 2006-2012.
+
+The perl script should be placed in the same directory as the data files to be processed. It takes th...","https://github.com/KayarBlue/GeoSoftGPF_1/blob/master/mooring_all.pl"
+"regrid.runfile","This file contains  the file names for the regrid program","https://zenodo.org/record/22307#.V2BQ6vkrJhG"
+"getwind"," Script will retrieve the raw data via ftp from NCEP and clip it to the defined area, leaving one uwind_<year>.asc and one vwind_<year>.asc file for each year. If you are only interested in a couple of months, just retrieve the year(s) of interest at this point and the next step will sort it out.","https://zenodo.org/record/22307#.V0SWK4SDFBe"
+"Parallel LDA","A parallel C++ implementation of fast Gibbs sampling of Latent Dirichlet Allocation","https://code.google.com/archive/p/plda/downloads"
+"OpenCV","A free open source library made up of mostly computer vision and image processing functions.","http://docs.opencv.org/3.1.0/#gsc.tab=0"
+"PIHMgis","Physically-based fully-distributed hydrologic models try to simulate hydrologic state variables in space and time while using information regarding heterogeneity in climate, land use, topography and hydrogeology. However incorporating a large number of physical data layers in the hydrologic model...","http://sourceforge.net/projects/pihmgis/"
+"DetectEdges","This component generates a mask using a threshold that is applied to the original image and displayed in a window.","http://datascience4all.org/wings-portal/users/alyssa/OpenCV/components"
+"create_LDAS_soil","Create a VIC soil file with the LDAS soil hydraulic parameters","http://www.hydro.washington.edu/Lettenmaier/Models/VIC/Documentation/PrepLDAS.shtml"
+"get_prism","This program reads the prism data (C.Daly et al 1993) and converts them into monthly gridded data at a chosen resolution. ","https://zenodo.org/record/22307#.V02yYPkrJD-"
+"preproc_append","Formatting the raw NCDC data downloaded from the web site to append to the data downloaded from the Earthinfo CDs.","https://zenodo.org/record/22307#"
+"rescale","Rescale uses the output from mk_monthly, get_prism and regrid as input. The precipitation values are read from the gridded data file (regrid output) and scaled with the ratio prism.jan/monthly.jan in each grid cell. This makes the long term monthly means of the gridded data consistent with the pr...","https://zenodo.org/record/22307#.V02yYPkrJD-"
+"GPF Momentum Budget Analysis","This tools enables us to conduct a detail study of dynamics related to the generation of low-level westerly wind burst","https://github.com/jihyunoh/GPF"
+"GroundWater Decision Support System (GWDSS)","GWDSS General Description  
+Groundwater Decision Support System (GWDSS) has been designed for integrated systems approaches to water management. GWDSS supports participatory processes and advanced computational approaches to test scientific uncertainty and communicate about water management alter...","https://github.com/helpfultangent/GWDSS"
+"run_append_prec","access the station files created from the Earthinfo CD data (e.g. “basin_prcp.inf”), and the program searches through the new data for stations that match the ID numbers in the CD station info file. No new stations are added or lost in this process. ","https://zenodo.org/record/22307#.V2BQ6vkrJhG"
+"MoveRight","This component moves the image a set amount to the right.","http://datascience4all.org/wings-portal/users/alyssa/OpenCV/components"
+"vicinput","This program uses the rescaled precipitation file and the gridded temperature files and puts them into
+separate preliminary VIC input files. ","https://zenodo.org/record/22307#.V02yYPkrJD-"
+"MoorADCP.m","This software helps process current velocity data collected by Kyeong Park at Dauphin Island Sea Lab, Alabama, for the Fisheries Oceanography in Coastal Alabama (FOCAL) program, which ran from 2006-2012. 
+
+The script interpolates through data gaps of 4 or fewer missing values, representing 1.5 ho...","https://github.com/KayarBlue/GeoSoftGPF_1/blob/master/MoorADCP.m"
+"neotoma","Access to the Neotoma Paleoecological Database Through R","https://github.com/ropensci/neotoma"
+"WatershedSegment","This component segments out the noise in an image and outputs a white and gray image.","http://datascience4all.org/wings-portal/users/alyssa/OpenCV/components"
+"combine_wind","The program combine_wind.c is run with the script run_combine_wind.scr and reads the VIC files with precipitation and temperature and essentially adds the wind data as a fourth column. It also is currently set to transform the precipitation from a signed to an unsigned 2-byte integer. This progra...","https://zenodo.org/record/22307#.V02yYPkrJD-"
+"FORTRAN77 Compiler","","https://zenodo.org/record/22307#.VytxVYQrJD-"
+"create_LDAS_veg_param","Extracts a vegetation parameter file to match the input soil parameter file","http://www.hydro.washington.edu/Lettenmaier/Models/VIC/Documentation/PrepLDAS.shtml"
+"PIHM","PIHM is a multiprocess, multi-scale hydrologic model where the major hydrological processes are fully coupled using the semi-discrete finite volume method. PIHM is a physical model for surface and groundwater, “tightly-coupled” to a GIS interface. PIHMgis which is open source, platform independen...","http://sourceforge.net/projects/pihmmodel/"
+"GPF Narragansett Bay N2 fluxes","This is the code for the Geoscience Paper for the Future entitled "Reproducibly Quantifying Benthic Processes in an Estuary Under Change" by Robinson W. Fulweiler(1,2), Hollie E. Emery(1), and Timothy J. Maguire(2).
+(1) Department of Earth and Environment, Boston University. (2) Department of Bio...","https://github.com/FulweilerLab/NarragansettBayN2"
+"Supraglacial Lake Depth With Landsat 8: Application to 2015 Sermeq Kujalleq Area","These scripts ingest Landsat 8 data and output (statistics on) supraglacial lake depths in one region of Greenland for summer 2015","https://github.com/allenpope/Landsat8_SupraglacialLakes/tree/SermeqKujalleq2015"
+"FlipImage180","The "FlipImage" component runs code on an input_image file to flip the image upside down. This is done by remapping the pixels.","http://datascience4all.org/wings-portal/users/alyssa/OpenCV/components"
+"preproc_precip","Preliminary processing of NCDC data file","https://zenodo.org/record/22307#.V1B5_fkrJhG"
+"Supraglacial Lake Depth With Landsat 8","These scripts reproduce the analysis, validation, and investigation of supraglacial lake depths in Greenland with Landsat 8 (and some other multispectral sensors).","https://github.com/allenpope/Landsat8_SupraglacialLakes"
+"regrid_wind.c","This is the second step in processing the reanalysis wind data  for VIC input. The data is first retrieved with "getwind.scr"","https://zenodo.org/record/22307#.V02yYPkrJD-"
+"append_prec","This program reads the output from the script preproc_precip.scr and formats the daily precipitation so the regrid program can read them Only the output files from the preproc_precip.scr script (daily data and station info files) are needed.","https://zenodo.org/record/22307#.V2BQ6vkrJhG"
+"Benchmark Toolkit for Hydrological Network Representation Models","A performance benchmark toolkit for evaluating various hydrological network representation models","https://github.com/demiribr/HydroNetBenchKit"
+"MOORprocess_all.m","This software helps process mooring data collected by Kyeong Park at Dauphin Island Sea Lab, Alabama, for the Fisheries Oceanography in Coastal Alabama (FOCAL) program, which ran from 2006-2012. 
+
+It calculates density for CTDs and YSIs, interpolates missing values in data gaps, and (along with t...","https://github.com/KayarBlue/GeoSoftGPF_1/blob/master/MOORprocess_all.m"
+"smooth","This component runs through an inputted image and "smooths" the image.","http://datascience4all.org/wings-portal/users/alyssa/OpenCV/components"
+"read_prec_dly","This program reads the output from the script preproc_precip.scr and formats the daily precipitation so the regrid program can read them Only the output files from the preproc_precip.scr script (daily data  and station info files) are needed.","https://zenodo.org/record/22307#.VytxVYQrJD-"
+"The General Lake Model (GLM)"," “The General Lake Model” (GLM). GLM (not to be confused with General Linear Model) has been designed to be an open-source community model suited to environmental modelling studies where simulation of lakes or reservoirs is required.
+Model Overview
+The model has been developed as an initiative of...","https://github.com/AquaticEcoDynamics/GLM"
