@@ -23,12 +23,13 @@ class ParseListing(object):
         self.output = output
         self.csv_headers = ['"Name"', '"Description"', '"Location"']
 
-    def fetch_content(self, url):
+    @staticmethod
+    def fetch_content(url):
         header = {'x-requested-with': 'XMLHttpRequest'}
         response = requests.get(url, headers=header)
         return response.content
 
-    def get_softwares(self):
+    def parse(self):
         listing_content = self.fetch_content(self.listing_url)
         listing = json.loads(listing_content)
         with open(self.output, 'wb') as out:
@@ -66,4 +67,4 @@ if __name__ == '__main__':
     argParser.add_argument('-o', '--output', help='Path to file where the output will be stored', required=True)
     args = argParser.parse_args()
     parser = ParseListing(args.listing_url, args.output)
-    parser.get_softwares()
+    parser.parse()
