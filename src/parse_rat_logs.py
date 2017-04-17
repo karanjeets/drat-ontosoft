@@ -23,7 +23,7 @@ class ParseRat(object):
             print('LICENSE TYPE NOT FOUND. PLEASE ADD.')
         else:
             li = li_dict[li]
-        return ['/' + arr[1].strip(), li]
+        return [arr[1].split("/")[-1].strip().replace("_|_", "/"), li]
 
     def parse(self):
         rat_license = {}
@@ -51,7 +51,7 @@ class ParseRat(object):
                         if '=====================================================' in line or '== File:' in line:
                             h += 1
                         if h == 2:
-                            cur_file = '/' + line.split("/", 1)[1].strip()
+                            cur_file = line.split("/")[-1].strip().replace("_|_", "/")
                         if h == 3:
                             cur_header += line
                         if h == 4:
