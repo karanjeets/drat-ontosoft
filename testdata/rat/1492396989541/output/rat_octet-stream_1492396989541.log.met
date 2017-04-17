@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cas:metadata xmlns:cas="http://oodt.jpl.nasa.gov/1.0/cas">
+   <keyval type="vector">
+      <key>DataProvider</key>
+      <val>OODT</val>
+   </keyval>
+   <keyval type="vector">
+      <key>DataVersion</key>
+      <val>1.0</val>
+   </keyval>
+   <keyval type="vector">
+      <key>CollectionName</key>
+      <val>Products+extracted+by+the+OODT+Filename+Met+Extractor</val>
+   </keyval>
+   <keyval type="vector">
+      <key>JobId</key>
+      <val>97ad5adb-2317-11e7-9c6d-8fd71c17f7c2</val>
+   </keyval>
+   <keyval type="vector">
+      <key>FileLocation</key>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fdeploy%2Fdata%2Fjobs%2Frat%2F1492396989541%2Foutput</val>
+   </keyval>
+   <keyval type="vector">
+      <key>ProductionDateTime</key>
+      <val>2017-04-17T02%3A43%3A09.541Z</val>
+   </keyval>
+   <keyval type="vector">
+      <key>InputFiles</key>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fman%2FbootRes-internal.rd</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fman%2Frt.prec.Rd</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fman%2Fmdcplot.Rd</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fman%2Fmdcc.Rd</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fman%2Fmuc.clim.Rd</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fman%2Fmuc.fake.Rd</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fman%2Fdcc.Rd</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fman%2Fdcplot.Rd</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fman%2FbootRes-package.Rd</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fman%2Fmuc.spruce.Rd</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fman%2Frt.temp.Rd</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fman%2Frt.spruce.Rd</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Finst%2FCITATION</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Finst%2FChangelog</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fdata%2Fmuc.clim.RData</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fdata%2Fmuc.spruce.rda</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fdata%2Frt.temp.RData</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fdata%2Frt.prec.RData</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fdata%2Frt.spruce.rda</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2Fdata%2Fmuc.fake.RData</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2FNAMESPACE</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2FDESCRIPTION</val>
+   </keyval>
+   <keyval type="vector">
+      <key>RatName</key>
+      <val>rat</val>
+   </keyval>
+   <keyval type="vector">
+      <key>DateMilis</key>
+      <val>1492396989541</val>
+   </keyval>
+   <keyval type="vector">
+      <key>Filename</key>
+      <val>rat_octet-stream_1492396989541.log</val>
+   </keyval>
+   <keyval type="vector">
+      <key>ProductType</key>
+      <val>RatLog</val>
+   </keyval>
+   <keyval type="vector">
+      <key>MimeType</key>
+      <val>octet-stream</val>
+   </keyval>
+</cas:metadata>

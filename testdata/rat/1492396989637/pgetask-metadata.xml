@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cas:metadata xmlns:cas="http://oodt.jpl.nasa.gov/1.0/cas">
+   <keyval type="vector">
+      <key>GreaterThan</key>
+      <val>%3E</val>
+   </keyval>
+   <keyval type="vector">
+      <key>WorkflowManagerUrl</key>
+      <val>http%3A%2F%2Flogin1.wrangler.tacc.utexas.edu%3A9001</val>
+   </keyval>
+   <keyval type="vector">
+      <key>TaskId</key>
+      <val>urn%3Adrat%3ARatCodeAudit</val>
+   </keyval>
+   <keyval type="vector">
+      <key>JobInputDir</key>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fdeploy%2Fdata%2Fjobs%2Frat%2F1492396989637%2Finput</val>
+   </keyval>
+   <keyval type="vector">
+      <key>WorkflowInstId</key>
+      <val>97baa14c-2317-11e7-9c6d-8fd71c17f7c2</val>
+   </keyval>
+   <keyval type="vector">
+      <key>ProductType</key>
+      <val>RatLog</val>
+   </keyval>
+   <keyval type="vector">
+      <key>JobLogDir</key>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fdeploy%2Fdata%2Fjobs%2Frat%2F1492396989637%2Flogs</val>
+   </keyval>
+   <keyval type="vector">
+      <key>JobId</key>
+      <val>97baa14c-2317-11e7-9c6d-8fd71c17f7c2</val>
+   </keyval>
+   <keyval type="vector">
+      <key>PGETask_DumpMetadata</key>
+      <val>true</val>
+   </keyval>
+   <keyval type="vector">
+      <key>LessThan</key>
+      <val>%3C</val>
+   </keyval>
+   <keyval type="vector">
+      <key>DateMilis</key>
+      <val>1492396989637</val>
+   </keyval>
+   <keyval type="vector">
+      <key>PCS_MetFileExtension</key>
+      <val>met</val>
+   </keyval>
+   <keyval type="vector">
+      <key>WorkflowId</key>
+      <val>2e31883f-3893-460f-a6df-baeef6139f12</val>
+   </keyval>
+   <keyval type="vector">
+      <key>Ampersand</key>
+      <val>%26</val>
+   </keyval>
+   <keyval type="vector">
+      <key>MimeType</key>
+      <val>x-web-markdown</val>
+   </keyval>
+   <keyval type="vector">
+      <key>PCS_WorkflowManagerUrl</key>
+      <val>http%3A%2F%2Flocalhost%3A9001</val>
+   </keyval>
+   <keyval type="vector">
+      <key>ProductionDateTime</key>
+      <val>2017-04-17T02%3A43%3A09.637Z</val>
+   </keyval>
+   <keyval type="vector">
+      <key>PGETask_ConfigFilePath</key>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fdeploy%2Fpge%2Fpolicy%2FPgeConfig_Rat.xml</val>
+   </keyval>
+   <keyval type="vector">
+      <key>PGETask_Name</key>
+      <val>RatCodeAudit</val>
+   </keyval>
+   <keyval type="vector">
+      <key>LogicalAnd</key>
+      <val>%26%26</val>
+   </keyval>
+   <keyval type="vector">
+      <key>WorkflowName</key>
+      <val>Dynamic+Workflow-2e31883f-3893-460f-a6df-baeef6139f12</val>
+   </keyval>
+   <keyval type="vector">
+      <key>NotEqualTo</key>
+      <val>%26%3D</val>
+   </keyval>
+   <keyval type="vector">
+      <key>ProcessingNode</key>
+      <val>login1.wrangler.tacc.utexas.edu</val>
+   </keyval>
+   <keyval type="vector">
+      <key>GreaterThanOrEqualTo</key>
+      <val>%3E%3D</val>
+   </keyval>
+   <keyval type="vector">
+      <key>JobOutputDir</key>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fdeploy%2Fdata%2Fjobs%2Frat%2F1492396989637%2Foutput</val>
+   </keyval>
+   <keyval type="vector">
+      <key>LessThanOrEqualTo</key>
+      <val>%3C%3D</val>
+   </keyval>
+   <keyval type="vector">
+      <key>PCS_ClientTransferServiceFactory</key>
+      <val>org.apache.oodt.cas.filemgr.datatransfer.LocalDataTransferFactory</val>
+   </keyval>
+   <keyval type="vector">
+      <key>CshPipeToStdOutAndError</key>
+      <val>%3E%26%21</val>
+   </keyval>
+   <keyval type="vector">
+      <key>PCS_FileManagerUrl</key>
+      <val>http%3A%2F%2Flocalhost%3A9000</val>
+   </keyval>
+   <keyval type="vector">
+      <key>JobDir</key>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fdeploy%2Fdata%2Fjobs%2Frat%2F1492396989637</val>
+   </keyval>
+   <keyval type="vector">
+      <key>InputFiles</key>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2FREADME.md</val>
+   </keyval>
+   <keyval type="vector">
+      <key>Exclamation</key>
+      <val>%21</val>
+   </keyval>
+</cas:metadata>

@@ -1,0 +1,14 @@
+#!sh
+export PATH=$HOME/bin/:${PATH}
+shopt -s expand_aliases
+alias rat="java -jar /gpfs/flash/users/tg830544/drat-ontosoft/deploy/rat/lib/apache-rat-0.12.jar"
+echo "Creating working dirs"
+mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989768/input ; mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989768/output; mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989768/logs
+echo "Staging input to /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989768/input"
+FILELIST=`python -c "print ' '.join('/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/R/pmat.R,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/R/mdcplot.R,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/R/bcf.R,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/R/nbcf.R,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/R/dcplot.R,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/R/nbrf.R,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/R/mdcc.R,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/R/dendroclim.R,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/R/dcc.R,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/R/climdispatch.R,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/R/brf.R'.split(','))"`
+for file in $FILELIST; do
+rsync -av --backup --suffix=_`date +"%m%d%Y_%H%M"` $file /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989768/input
+done
+echo "Running Apache RAT on /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989768/input"
+rat /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989768/input > /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989768/output/rat_x-rsrc_1492396989768.log
+

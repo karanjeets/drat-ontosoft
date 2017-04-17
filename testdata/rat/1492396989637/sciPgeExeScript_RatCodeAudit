@@ -1,0 +1,14 @@
+#!sh
+export PATH=$HOME/bin/:${PATH}
+shopt -s expand_aliases
+alias rat="java -jar /gpfs/flash/users/tg830544/drat-ontosoft/deploy/rat/lib/apache-rat-0.12.jar"
+echo "Creating working dirs"
+mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input ; mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/output; mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/logs
+echo "Staging input to /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input"
+FILELIST=`python -c "print ' '.join('/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/README.md'.split(','))"`
+for file in $FILELIST; do
+rsync -av --backup --suffix=_`date +"%m%d%Y_%H%M"` $file /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input
+done
+echo "Running Apache RAT on /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input"
+rat /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input > /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/output/rat_x-web-markdown_1492396989637.log
+

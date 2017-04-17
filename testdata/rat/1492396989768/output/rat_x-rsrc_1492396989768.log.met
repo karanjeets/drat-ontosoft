@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cas:metadata xmlns:cas="http://oodt.jpl.nasa.gov/1.0/cas">
+   <keyval type="vector">
+      <key>DataProvider</key>
+      <val>OODT</val>
+   </keyval>
+   <keyval type="vector">
+      <key>DataVersion</key>
+      <val>1.0</val>
+   </keyval>
+   <keyval type="vector">
+      <key>CollectionName</key>
+      <val>Products+extracted+by+the+OODT+Filename+Met+Extractor</val>
+   </keyval>
+   <keyval type="vector">
+      <key>JobId</key>
+      <val>97ca31ad-2317-11e7-9c6d-8fd71c17f7c2</val>
+   </keyval>
+   <keyval type="vector">
+      <key>FileLocation</key>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fdeploy%2Fdata%2Fjobs%2Frat%2F1492396989768%2Foutput</val>
+   </keyval>
+   <keyval type="vector">
+      <key>ProductionDateTime</key>
+      <val>2017-04-17T02%3A43%3A09.768Z</val>
+   </keyval>
+   <keyval type="vector">
+      <key>InputFiles</key>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2FR%2Fpmat.R</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2FR%2Fmdcplot.R</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2FR%2Fbcf.R</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2FR%2Fnbcf.R</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2FR%2Fdcplot.R</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2FR%2Fnbrf.R</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2FR%2Fmdcc.R</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2FR%2Fdendroclim.R</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2FR%2Fdcc.R</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2FR%2Fclimdispatch.R</val>
+      <val>%2Fgpfs%2Fflash%2Fusers%2Ftg830544%2Fdrat-ontosoft%2Fsoftwares%2Fgithub%2Fc4p%2Fcszang-bootRes%2FR%2Fbrf.R</val>
+   </keyval>
+   <keyval type="vector">
+      <key>RatName</key>
+      <val>rat</val>
+   </keyval>
+   <keyval type="vector">
+      <key>DateMilis</key>
+      <val>1492396989768</val>
+   </keyval>
+   <keyval type="vector">
+      <key>Filename</key>
+      <val>rat_x-rsrc_1492396989768.log</val>
+   </keyval>
+   <keyval type="vector">
+      <key>ProductType</key>
+      <val>RatLog</val>
+   </keyval>
+   <keyval type="vector">
+      <key>MimeType</key>
+      <val>x-rsrc</val>
+   </keyval>
+</cas:metadata>
