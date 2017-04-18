@@ -39,6 +39,10 @@ class ParseRat(object):
             with open(filename, 'rb') as f:
                 for line in f:
                     if '*****************************************************' in line:
+                        l = 0
+                        h = 0
+                        cur_file = ''
+                        cur_header = ''
                         cur_section = ''
                     if line.startswith('  Files with Apache'):
                         cur_section = 'licenses'
@@ -49,6 +53,7 @@ class ParseRat(object):
                         if l > 4:
                             line = line.strip()
                             if line:
+                                #print("File: %s with License Line: %s" % (filename, line))
                                 li = self.parse_license(line)
                                 rat_license[li[0]] = li[1]
                                 #print(li)
