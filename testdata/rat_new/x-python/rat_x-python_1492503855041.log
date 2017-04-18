@@ -1,0 +1,497 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2017-04-18T03:24:15-05:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 9
+
+Apache Licensed: 0
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+9 Unknown Licenses
+
+*****************************************************
+
+Files with unapproved licenses:
+
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|_conf.py
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|___init__.py
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|_Basic.py
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|_LiPDutils.py
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|_Map.py
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|_SummaryPlots.py
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|_TSPlot.py
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|___init__.py
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_setup.py
+
+*****************************************************
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|_conf.py
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|___init__.py
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|_Basic.py
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|_LiPDutils.py
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|_Map.py
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|_SummaryPlots.py
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|_TSPlot.py
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|___init__.py
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_setup.py
+ 
+*****************************************************
+
+ Printing headers for text files without a valid license header...
+ 
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|_conf.py
+=====================================================
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+#
+# Pyleoclim documentation build configuration file, created by
+# sphinx-quickstart on Fri Feb 10 13:56:30 2017.
+#
+# This file is execfile()d with the current directory set to its
+# containing dir.
+#
+# Note that not all possible configuration values are present in this
+# autogenerated file.
+#
+# All configuration values have a default; values that are commented out
+# serve to show the default.
+
+import sys
+import os
+
+# If extensions (or modules to document with autodoc) are in another directory,
+# add these directories to sys.path here. If the directory is relative to the
+# documentation root, use os.path.abspath to make it absolute, like shown here.
+#sys.path.insert(0, os.path.abspath('.'))
+sys.path.insert(0,'/Users/deborahkhider/Documents/Python/Pyleoclim_util/pyleoclim')
+#sys.path.insert(0,os.path.abspath('../pyleoclim'))
+# -- General configuration ------------------------------------------------
+
+# If your documentation needs a minimal Sphinx version, state it here.
+#needs_sphinx = '1.0'
+
+# Add any Sphinx extension module names here, as strings. They can be
+# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
+# ones.
+extensions = [
+    'sphinx.ext.autodoc',
+    'sphinx.ext.doctest',
+    'sphinx.ext.mathjax',
+    'sphinxcontrib.napoleon',
+]
+
+# Add any paths that contain templates here, relative to this directory.
+templates_path = ['_templates']
+
+# The suffix(es) of source filenames.
+# You can specify multiple suffix as a list of string:
+# source_suffix = ['.rst', '.md']
+source_suffix = '.rst'
+
+# The encoding of source files.
+#source_encoding = 'utf-8-sig'
+
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|___init__.py
+=====================================================
+# -*- coding: utf-8 -*-
+"""
+Created on Wed May 11 10:42:34 2016
+
+@author: deborahkhider
+
+Initializes the Pyleoclim package
+
+"""
+#Import all the needed packages
+
+
+import lipd as lpd
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.basemap import Basemap
+import sys
+import os
+from matplotlib import gridspec
+from scipy.stats import pearsonr
+from scipy.stats.mstats import gmean
+from scipy.stats import t as stu
+from scipy.stats import gaussian_kde
+import statsmodels.api as sm
+from sklearn import preprocessing
+import seaborn as sns
+import progressbar
+
+#Import internal packages to pyleoclim
+from .pkg_resources.Map import *
+from .pkg_resources.TSPlot import *
+from .pkg_resources.LiPDutils import *
+from .pkg_resources.Basic import *
+from .pkg_resources.SummaryPlots import *
+
+# Load the LiPDs present in the directory
+def openLipds(path="",ts_list=""):
+    """Load and extract timeseries objects from LiPD files.
+    
+    Allows to load and extract timeseries objects into the workspace for use
+    with Pyleoclim. This can be done by the user previously, using the LiPD 
+    utilities and passed into the function's argumenta. If no timeseries objects
+    are found by other functions, this function will be triggered automatically
+    without arguments.
+    
+    Args:  
+        path (string): the path to the LiPD file. If not specified, will 
+            trigger the LiPD utilities GUI.
+        ts_list (list): the list of available timeseries objects 
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|_Basic.py
+=====================================================
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan 18 2017
+
+@author: deborahkhider
+
+Basic functionalities for science rather than file manipulation.
+Make sure this module is imported for the use of static methods. 
+
+"""
+
+import lipd as lpd
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.basemap import Basemap
+import sys
+import os
+from matplotlib import gridspec
+from scipy.stats import pearsonr
+from scipy.stats.mstats import gmean
+from scipy.stats import t as stu
+from scipy.stats import gaussian_kde
+import statsmodels.api as sm
+from sklearn import preprocessing
+import progressbar
+
+#Import internal packages to pyleoclim
+from .LiPDutils import *
+
+class Basic(object):
+    """ Basic manipulation of timeseries for scientific purpose.
+    
+    Calculates statistics of timeseries, bin or interpolate data
+    
+    """
+    
+    def __init__(self,timeseries_list):
+
+        self.TS = timeseries_list
+
+    @staticmethod
+    def getValues(timeseries):
+        """Get the paleoData values from the timeseries object
+        
+        Args:
+            timeseries: a single timeseries object. Use getTSO() to get
+                one from the dictionary
+        """
+        values_key =[]
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|_LiPDutils.py
+=====================================================
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Nov 21 13:07:07 2016
+
+@author: deborahkhider
+
+LiPD file manipulations. Except for maps, most manipulations are done on the timeseries objects.
+
+See the LiPD documentation for more information on timeseries objects (TSO)
+
+"""
+
+import lipd as lpd
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.basemap import Basemap
+import sys
+import os
+from matplotlib import gridspec
+
+#Import internal packages to pyleoclim
+import pyleoclim 
+
+"""
+The following functions handle creating new directories and saving figures and logs
+"""
+
+def createDir(path, foldername):
+    """Create a new folder in a working directory
+    
+    Create a new folder in a working directory to save outputs from Pyleoclim.
+    
+    Args:
+        path(str): the path to the new folder.
+        foldername(str): the name of the folder to be created
+        
+    Returns:
+        newdir - the full path to the new directory
+        
+    """
+
+    if not os.path.exists(path+'/'+foldername):
+        os.makedirs(path+'/'+foldername)
+    
+    newdir = path+'/'+foldername    
+
+    return newdir 
+
+def saveFigure(name, format="eps",dir=""):
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|_Map.py
+=====================================================
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Apr 21 11:00:07 2016
+
+@author: deborahkhider
+
+Mapping functions.
+
+Uses the LiPD files directly rather than timeseries objects
+
+"""
+
+import lipd as lpd
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.basemap import Basemap
+import sys
+import os
+
+#Import internal packages to pyleoclim
+
+from .LiPDutils import *
+from .Basic import *
+
+class Map(object):
+    """ Create Maps using Basemap. 
+    
+    Uses the default color palette: pyleoclim.plot_default
+    
+    """
+
+    def __init__(self, plot_default):
+        
+        # Organize the data        
+
+        self.default= plot_default
+
+        lipd_in_directory = lpd.getLipdNames()
+                     
+        self.data = pd.DataFrame({'Lat': np.array([0] * len(lipd_in_directory)),
+                     'Lon': np.array([0] * len(lipd_in_directory)),
+                     'archive':'archive',
+                     'name':'name'})                   
+
+        for idx,val in enumerate(lipd_in_directory):
+            d = lpd.getMetadata(val)
+            self.data.iloc[idx,0]=d['geo']['geometry']['coordinates'][1]
+            self.data.iloc[idx,1]=d['geo']['geometry']['coordinates'][0]
+            # Put the archiveType in
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|_SummaryPlots.py
+=====================================================
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan 18 2017
+
+@author: deborahkhider
+
+Summary plots
+
+"""
+
+import lipd as lpd
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.basemap import Basemap
+import sys
+import os
+from matplotlib import gridspec
+import seaborn as sns
+
+#Import internal packages to pyleoclim
+from .LiPDutils import *
+from .Basic import *
+
+class SummaryPlots(object):
+    """Plots various summary figures for a LiPD record
+    
+    """
+    
+    def __init__(self,timeseries_list,plot_default):
+       
+        self.TS = timeseries_list
+        self.default = plot_default
+        
+    def getMetadata(self, timeseries):
+        """ Get the necessary metadata to be printed out automatically
+        
+        Args:
+            timeseries: a specific timeseries object
+            
+        Returns:
+            A dictionary containing the following metadata:\n
+            archiveType \n
+            Authors (if more than 2, replace by et al. \n
+            PublicationYear \n
+            Publication DOI \n
+            Variable Name \n
+            Units \n
+            Climate Interpretation \n
+            Calibration Equation \n
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|_TSPlot.py
+=====================================================
+# -*- coding: utf-8 -*-
+"""
+Created on Tue May  3 15:14:26 2016
+
+@author: deborahkhider
+
+Plot timeseries
+
+"""
+
+import lipd as lpd
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.basemap import Basemap
+import sys
+import os
+from matplotlib import gridspec
+import seaborn as sns
+
+#Import internal packages to pyleoclim
+from .LiPDutils import *
+from .Basic import *
+
+class Plot(object):
+    """ Plot a timeseries
+    """
+
+    def __init__(self, plot_default,timeseries_list):
+        
+
+        self.TS= timeseries_list
+        self.default = plot_default    
+    
+    def plot_Ts(self, timeseries = "", x_axis = "", markersize = 50,\
+                   marker = "default", saveFig = False, dir = "",\
+                   format="eps"):
+        """ Plot a timeseries object
+        
+        Args:
+            timeseries: A timeseries. By default, will prompt the user for one. 
+            x_axis (str): The representation against which to plot the 
+                paleo-data. Options are "age", "year", and "depth". 
+                Default is to let the system choose if only one available or
+                prompt the user. 
+            markersize (int): default is 50. 
+            marker (str): a string (or list) containing the color and shape of
+                the marker. Default is by archiveType.Type pyleo.plot_default 
+                to see the default palette.
+            saveFig (bool): default is to not save the figure
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|___init__.py
+=====================================================
+# -*- coding: utf-8 -*-
+"""
+Created on Thu May 12 16:40:14 2016
+
+@author: deborahkhider
+"""
+
+__all__ = ['Map','Plot','LiPDutils','Basic','SummaryPlots']
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855041/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_setup.py
+=====================================================
+from setuptools import setup, find_packages
+import os
+import sys
+import io
+import path
+
+version = '0.1.4'
+
+# Read the readme file contents into variable
+if sys.argv[-1] == 'publish' or sys.argv[-1] == 'publishtest':
+    os.system('pandoc README.md -f markdown -t rst -s -o README.txt')
+
+readme_file = io.open('README.txt', encoding='utf-8')
+
+# Fallback long_description in case errors with readme file.
+long_description = "Welcome to Pyleoclim. Please reference the README file in the package for information"
+with readme_file:
+    long_description = readme_file.read()
+
+# Publish the package to the live server
+if sys.argv[-1] == 'publish':
+    # Register the tarball, upload it, and trash the temp readme rst file
+    os.system('python setup.py register -r pypi')
+    os.system('python setup.py sdist upload -r pypi')
+    os.remove('README.txt')
+    sys.exit()
+
+# Publish the package to the test server
+elif sys.argv[-1] == 'publishtest':
+    # Create dist tarball, register it to test site, upload tarball, and remove temp readme file
+    os.system('python setup.py register upload -r pypitest')
+    os.system('python setup.py sdist upload -r pypitest')
+    # Trash the temp rst readme file
+    os.remove('README.txt')
+    sys.exit()
+
+setup(
+    name = 'pyleoclim',
+    packages = find_packages(),
+    version = version,
+    license = 'GNU Public',
+    description = 'A Python package for paleoclimate data analysis',
+    long_description=long_description,
+    author = 'Deborah Khider',
+    author_email = 'dkhider@gmail.com',
+    url = 'https://github.com/LinkedEarth/Pyleoclim_util/pyleoclim',
+    download_url = 'https://github.com/LinkedEarth/Pyleoclim_util/tarball/0.1.4',
+    keywords = ['Paleoclimate, Data Analysis'],
+    classifiers = [],
+    install_requires = [

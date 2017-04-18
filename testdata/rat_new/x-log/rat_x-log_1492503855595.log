@@ -1,0 +1,107 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2017-04-18T03:24:16-05:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 2
+
+Apache Licensed: 0
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+2 Unknown Licenses
+
+*****************************************************
+
+Files with unapproved licenses:
+
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855595/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|_debug.log
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855595/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_debug.log
+
+*****************************************************
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855595/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|_debug.log
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855595/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_debug.log
+ 
+*****************************************************
+
+ Printing headers for text files without a valid license header...
+ 
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855595/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|_debug.log
+=====================================================
+2017-02-10 14:03:06,046 [INFO] directory: temp directory: /var/folders/j5/h401grn92_q265mg4925_51h0000gn/T/tmpvuvvv1dy
+2017-02-10 14:03:06,046 [INFO] LiPD_Library: LiPD Library created
+2017-02-10 14:03:06,277 [DEBUG] shapely.geos: Trying `CDLL(/usr/lib/libc.dylib)`
+2017-02-10 14:03:06,278 [DEBUG] shapely.geos: Library path: '/usr/lib/libc.dylib'
+2017-02-10 14:03:06,278 [DEBUG] shapely.geos: DLL: <CDLL '/usr/lib/libc.dylib', handle 7fff654d1d08 at 0x11691b8d0>
+2017-02-10 14:08:41,605 [INFO] directory: temp directory: /var/folders/j5/h401grn92_q265mg4925_51h0000gn/T/tmp6gdck4bg
+2017-02-10 14:08:41,605 [INFO] LiPD_Library: LiPD Library created
+2017-02-10 14:08:41,851 [DEBUG] shapely.geos: Trying `CDLL(/usr/lib/libc.dylib)`
+2017-02-10 14:08:41,852 [DEBUG] shapely.geos: Library path: '/usr/lib/libc.dylib'
+2017-02-10 14:08:41,852 [DEBUG] shapely.geos: DLL: <CDLL '/usr/lib/libc.dylib', handle 7fff68ac4d08 at 0x1167e5c88>
+2017-02-10 14:12:35,527 [INFO] directory: temp directory: /var/folders/j5/h401grn92_q265mg4925_51h0000gn/T/tmpv8llfevb
+2017-02-10 14:12:35,527 [INFO] LiPD_Library: LiPD Library created
+2017-02-10 14:12:35,779 [DEBUG] shapely.geos: Trying `CDLL(/usr/lib/libc.dylib)`
+2017-02-10 14:12:35,780 [DEBUG] shapely.geos: Library path: '/usr/lib/libc.dylib'
+2017-02-10 14:12:35,780 [DEBUG] shapely.geos: DLL: <CDLL '/usr/lib/libc.dylib', handle 7fff67859d08 at 0x11680bbe0>
+2017-02-10 14:13:47,563 [INFO] directory: temp directory: /var/folders/j5/h401grn92_q265mg4925_51h0000gn/T/tmpt7qi63yh
+2017-02-10 14:13:47,563 [INFO] LiPD_Library: LiPD Library created
+2017-02-10 14:13:47,799 [DEBUG] shapely.geos: Trying `CDLL(/usr/lib/libc.dylib)`
+2017-02-10 14:13:47,800 [DEBUG] shapely.geos: Library path: '/usr/lib/libc.dylib'
+2017-02-10 14:13:47,800 [DEBUG] shapely.geos: DLL: <CDLL '/usr/lib/libc.dylib', handle 7fff5c101d08 at 0x1167c8be0>
+2017-02-10 14:39:57,408 [INFO] directory: temp directory: /var/folders/j5/h401grn92_q265mg4925_51h0000gn/T/tmp1ghrwst4
+2017-02-10 14:39:57,408 [INFO] LiPD_Library: LiPD Library created
+2017-02-10 14:39:57,682 [DEBUG] shapely.geos: Trying `CDLL(/usr/lib/libc.dylib)`
+2017-02-10 14:39:57,684 [DEBUG] shapely.geos: Library path: '/usr/lib/libc.dylib'
+2017-02-10 14:39:57,684 [DEBUG] shapely.geos: DLL: <CDLL '/usr/lib/libc.dylib', handle 7fff68528d08 at 0x11693cd68>
+2017-02-10 14:45:45,076 [INFO] directory: temp directory: /var/folders/j5/h401grn92_q265mg4925_51h0000gn/T/tmpl994k3b4
+2017-02-10 14:45:45,076 [INFO] LiPD_Library: LiPD Library created
+2017-02-10 14:45:45,367 [DEBUG] shapely.geos: Trying `CDLL(/usr/lib/libc.dylib)`
+2017-02-10 14:45:45,368 [DEBUG] shapely.geos: Library path: '/usr/lib/libc.dylib'
+2017-02-10 14:45:45,368 [DEBUG] shapely.geos: DLL: <CDLL '/usr/lib/libc.dylib', handle 7fff62256d08 at 0x116acc940>
+2017-02-10 14:46:37,549 [INFO] directory: temp directory: /var/folders/j5/h401grn92_q265mg4925_51h0000gn/T/tmpfa9w9rxt
+2017-02-10 14:46:37,549 [INFO] LiPD_Library: LiPD Library created
+2017-02-10 14:46:37,810 [DEBUG] shapely.geos: Trying `CDLL(/usr/lib/libc.dylib)`
+2017-02-10 14:46:37,810 [DEBUG] shapely.geos: Library path: '/usr/lib/libc.dylib'
+2017-02-10 14:46:37,810 [DEBUG] shapely.geos: DLL: <CDLL '/usr/lib/libc.dylib', handle 7fff62980d08 at 0x11693e208>
+2017-02-10 14:53:11,629 [INFO] directory: temp directory: /var/folders/j5/h401grn92_q265mg4925_51h0000gn/T/tmpd0206eng
+2017-02-10 14:53:11,629 [INFO] LiPD_Library: LiPD Library created
+2017-02-10 14:53:11,961 [DEBUG] shapely.geos: Trying `CDLL(/usr/lib/libc.dylib)`
+2017-02-10 14:53:11,963 [DEBUG] shapely.geos: Library path: '/usr/lib/libc.dylib'
+2017-02-10 14:53:11,963 [DEBUG] shapely.geos: DLL: <CDLL '/usr/lib/libc.dylib', handle 7fff63aeed08 at 0x116825e48>
+2017-02-10 14:54:04,829 [INFO] directory: temp directory: /var/folders/j5/h401grn92_q265mg4925_51h0000gn/T/tmpz34k9feg
+2017-02-10 14:54:04,829 [INFO] LiPD_Library: LiPD Library created
+2017-02-10 14:54:05,102 [DEBUG] shapely.geos: Trying `CDLL(/usr/lib/libc.dylib)`
+2017-02-10 14:54:05,103 [DEBUG] shapely.geos: Library path: '/usr/lib/libc.dylib'
+2017-02-10 14:54:05,103 [DEBUG] shapely.geos: DLL: <CDLL '/usr/lib/libc.dylib', handle 7fff5fadad08 at 0x1169401d0>
+2017-02-10 15:18:05,056 [INFO] directory: temp directory: /var/folders/j5/h401grn92_q265mg4925_51h0000gn/T/tmp6v65ft2q
+2017-02-10 15:18:05,056 [INFO] LiPD_Library: LiPD Library created
+2017-02-10 15:18:05,369 [DEBUG] shapely.geos: Trying `CDLL(/usr/lib/libc.dylib)`
+2017-02-10 15:18:05,370 [DEBUG] shapely.geos: Library path: '/usr/lib/libc.dylib'
+2017-02-10 15:18:05,370 [DEBUG] shapely.geos: DLL: <CDLL '/usr/lib/libc.dylib', handle 7fff6986dd08 at 0x1170266a0>
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503855595/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_debug.log
+=====================================================
+2016-07-06 14:31:57,001 [INFO] directory: temp directory: /var/folders/j5/h401grn92_q265mg4925_51h0000gn/T/tmpofmehuk4
+2016-07-06 14:31:57,001 [INFO] LiPD_Library: LiPD Library created
+2016-07-06 14:31:57,001 [INFO] directory: enter set_source
+2016-07-06 14:31:59,034 [INFO] directory: 4: notebook 
+2016-07-06 14:31:59,035 [INFO] directory: exit set_source
+2016-07-06 14:33:13,438 [INFO] directory: temp directory: /var/folders/j5/h401grn92_q265mg4925_51h0000gn/T/tmps8bk9m6n
+2016-07-06 14:33:13,438 [INFO] LiPD_Library: LiPD Library created
+2016-07-06 14:33:13,438 [INFO] directory: enter set_source
+2016-07-06 14:33:14,545 [INFO] directory: 4: notebook 
+2016-07-06 14:33:14,545 [INFO] directory: exit set_source

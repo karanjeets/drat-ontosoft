@@ -1,0 +1,72 @@
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance createExeDir
+INFO: Creating PGE execution working directory: [/gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance updateStatus
+INFO: Updating status to workflow as [BUILDING CONFIG FILE]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance createDynamicConfigFiles
+INFO: Starting creation of sci pge config files...
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance createDynamicConfigFiles
+INFO: Successfully wrote all sci pge config files!
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance updateStatus
+INFO: Updating status to workflow as [STAGING INPUT]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance stageFiles
+INFO: No files to stage.
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance runPge
+INFO: PGE start time [Sun Apr 16 21:43:09 CDT 2017]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance buildPgeRunScript
+FINE: Creating PGE run script for shell [sh] with contents [export PATH=$HOME/bin/:${PATH}, shopt -s expand_aliases, alias rat="java -jar /gpfs/flash/users/tg830544/drat-ontosoft/deploy/rat/lib/apache-rat-0.12.jar", echo "Creating working dirs", mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input ; mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/output; mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/logs, echo "Staging input to /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input", FILELIST=`python -c "print ' '.join('/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/README.md'.split(','))"`, for file in $FILELIST; do, rsync -av --backup --suffix=_`date +"%m%d%Y_%H%M"` $file /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input, done, echo "Running Apache RAT on /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input", rat /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input > /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/output/rat_x-web-markdown_1492396989637.log]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance getPgeScriptName
+FINE: Generated script file name [sciPgeExeScript_RatCodeAudit]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance getScriptPath
+FINE: Script file with be written to [/gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/sciPgeExeScript_RatCodeAudit]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance updateStatus
+INFO: Updating status to workflow as [PGE EXEC]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance runPge
+INFO: Starting execution of PGE...
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance getPgeScriptName
+FINE: Generated script file name [sciPgeExeScript_RatCodeAudit]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance getScriptPath
+FINE: Script file with be written to [/gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/sciPgeExeScript_RatCodeAudit]
+Apr 16, 2017 9:43:10 PM org.apache.oodt.commons.io.LoggerOutputStream flush
+SEVERE: ERROR: mkdir: cannot create directory ￢ﾀﾘ/gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/logs￢ﾀﾙ: File exists
+
+Apr 16, 2017 9:43:10 PM org.apache.oodt.commons.io.LoggerOutputStream flush
+INFO: OUTPUT: Creating working dirs
+OUTPUT: Staging input to /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input
+OUTPUT: sending incremental file list
+OUTPUT: README.md
+OUTPUT: 
+OUTPUT: sent 274 bytes  received 31 bytes  610.00 bytes/sec
+OUTPUT: total size is 174  speedup is 0.57
+OUTPUT: Running Apache RAT on /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input
+
+Apr 16, 2017 9:43:10 PM org.apache.oodt.commons.io.LoggerOutputStream flush
+INFO: OUTPUT: Creating working dirs
+OUTPUT: Staging input to /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input
+OUTPUT: sending incremental file list
+OUTPUT: README.md
+OUTPUT: 
+OUTPUT: sent 274 bytes  received 31 bytes  610.00 bytes/sec
+OUTPUT: total size is 174  speedup is 0.57
+OUTPUT: Running Apache RAT on /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989
+Apr 16, 2017 9:43:10 PM org.apache.oodt.cas.pge.PGETaskInstance runPge
+INFO: Successfully completed running: '[export PATH=$HOME/bin/:${PATH}, shopt -s expand_aliases, alias rat="java -jar /gpfs/flash/users/tg830544/drat-ontosoft/deploy/rat/lib/apache-rat-0.12.jar", echo "Creating working dirs", mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input ; mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/output; mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/logs, echo "Staging input to /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input", FILELIST=`python -c "print ' '.join('/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/README.md'.split(','))"`, for file in $FILELIST; do, rsync -av --backup --suffix=_`date +"%m%d%Y_%H%M"` $file /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input, done, echo "Running Apache RAT on /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input", rat /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/input > /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/output/rat_x-web-markdown_1492396989637.log]'
+Apr 16, 2017 9:43:10 PM org.apache.oodt.cas.pge.PGETaskInstance runPge
+INFO: PGE end time [Sun Apr 16 21:43:09 CDT 2017]
+Apr 16, 2017 9:43:10 PM org.apache.oodt.cas.pge.PGETaskInstance runPge
+INFO: PGE runtime in millis [453]
+Apr 16, 2017 9:43:10 PM org.apache.oodt.cas.pge.PGETaskInstance createProductCrawler
+INFO: Configuring ProductCrawler...
+Apr 16, 2017 9:43:10 PM org.apache.oodt.cas.pge.PGETaskInstance createProductCrawler
+FINE: Passing Workflow Metadata to CAS-Crawler as global metadata . . .
+Apr 16, 2017 9:43:10 PM org.apache.oodt.cas.pge.PGETaskInstance createProductCrawler
+FINE: Created ProductCrawler [org.apache.oodt.cas.crawl.StdProductCrawler]
+Apr 16, 2017 9:43:10 PM org.apache.oodt.cas.pge.PGETaskInstance updateStatus
+INFO: Updating status to workflow as [CRAWLING]
+Apr 16, 2017 9:43:10 PM org.apache.oodt.cas.pge.PGETaskInstance runIngestCrawler
+INFO: Crawling for products in [/gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/output]
+Apr 16, 2017 9:43:10 PM org.apache.oodt.cas.pge.PGETaskInstance verifyIngests
+INFO: Verifying ingests successful...
+Apr 16, 2017 9:43:10 PM org.apache.oodt.cas.pge.PGETaskInstance verifyIngests
+WARNING: Product was not ingested [file='/gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989637/output/rat_x-web-markdown_1492396989637.log.met',result='PRECONDS_FAILED',msg='Failed to pass preconditions']
+Apr 16, 2017 9:43:10 PM org.apache.oodt.cas.pge.PGETaskInstance verifyIngests
+INFO: Ingests were successful

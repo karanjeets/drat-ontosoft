@@ -1,0 +1,542 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2017-04-16T21:43:11-05:00
+
+Notes: 1
+Binaries: 6
+Archives: 0
+Standards: 15
+
+Apache Licensed: 0
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+15 Unknown Licenses
+
+*****************************************************
+
+Files with unapproved licenses:
+
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/CITATION
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/DESCRIPTION
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/NAMESPACE
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/bootRes-internal.rd
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/bootRes-package.Rd
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/dcc.Rd
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/dcplot.Rd
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/mdcc.Rd
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/mdcplot.Rd
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/muc.clim.Rd
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/muc.fake.Rd
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/muc.spruce.Rd
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/rt.prec.Rd
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/rt.spruce.Rd
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/rt.temp.Rd
+
+*****************************************************
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/CITATION
+  N     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/Changelog
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/DESCRIPTION
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/NAMESPACE
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/bootRes-internal.rd
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/bootRes-package.Rd
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/dcc.Rd
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/dcplot.Rd
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/mdcc.Rd
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/mdcplot.Rd
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/muc.clim.RData
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/muc.clim.Rd
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/muc.fake.RData
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/muc.fake.Rd
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/muc.spruce.Rd
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/muc.spruce.rda
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/rt.prec.RData
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/rt.prec.Rd
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/rt.spruce.Rd
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/rt.spruce.rda
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/rt.temp.RData
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/rt.temp.Rd
+ 
+*****************************************************
+
+ Printing headers for text files without a valid license header...
+ 
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/CITATION
+=====================================================
+citEntry(entry="Article",
+	title="Dendroclimatic calibration in R: The bootRes package for response and correlation function analysis",
+	author=personList(as.person("Christian Zang"),
+		as.person("Franco Biondi")),
+	journal="Dendrochronologia",
+	year="2012",
+	volume="",
+	number="",
+	pages="",
+        doi="10.1016/j.dendro.2012.08.001",
+	url="http://www.sciencedirect.com/science/article/pii/S1125786512000586",
+
+	header="To cite package archetypes in publications use:",
+	
+	textVersion=paste("Christian Zang and Franco Biondi",
+		"Dendroclimatic calibration in R: The bootRes package for response and correlation function analysis",
+		"Dendrochronologia doi:10.1016/j.dendro.2012.08.001",
+		"http://www.sciencedirect.com/science/article/pii/S1125786512000586")
+)
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/DESCRIPTION
+=====================================================
+Package: bootRes
+Type: Package
+Title: Bootstrapped Response and Correlation Functions
+Version: 1.2.3
+Date: 2012-05-02
+Author: Christian Zang
+Maintainer: Christian Zang <christian.zang@wzw.tum.de>
+Depends: base, stats, utils
+Suggests: dplR
+Description: Calculation of Bootstrapped Response and Correlation Functions for Use in Dendroclimatology
+License: GPL-3
+LazyLoad: yes
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/NAMESPACE
+=====================================================
+importFrom(utils, txtProgressBar)
+
+export( bcf, brf, climdispatch, dcc, dcplot, dendroclim, mdcc,
+mdcplot, nbcf, nbrf, pmat)
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/bootRes-internal.rd
+=====================================================
+\name{bootRes-internal}
+
+%% <LIST>
+\alias{bcf}
+\alias{brf}
+\alias{pmat}
+\alias{climdispatch}
+\alias{nbcf}
+\alias{nbrf}
+%% </LIST>
+
+\title{Internal bootRes Functions}
+\description{
+  Internal bootRes functions
+}
+\details{
+  These are not to be called by the user (or in some cases are just
+  waiting for proper documentation to be written :).
+}
+\keyword{ internal }
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/bootRes-package.Rd
+=====================================================
+\name{bootRes-package}
+\Rdversion{1.1}
+\alias{bootRes-package}
+\alias{bootRes}
+\docType{package}
+\title{
+The bootRes Package for Bootstrapped Response and Correlation Functions
+}
+
+\description{ This package contains functions for calculating
+  bootstrapped response and correlation functions for use in
+  dendroclimatology.  }
+
+\details{
+
+  \tabular{ll}{
+    Package: \tab bootRes\cr
+    Type: \tab Package\cr
+    Version: \tab 0.1\cr
+    Date: \tab 2009-06-24\cr
+    License: \tab GPL-3\cr
+    LazyLoad: \tab yes\cr
+  }
+
+  Function \code{\link{dcc}} is used to calculate response and
+  correlation functions using tree-ring chronologies and monthly
+  climatic data (Fritts, 1976, Cook and Kairiukstis, 1990),
+  \code{\link{dcplot}} is a convenient plotting function for its output.
+  In its current state this package is a clone of the computer programme
+  DENDROCLIM2002 (Biondi and Waikul, 2004).
+}
+
+\author{
+Christian Zang with significant input from Franco Biondi
+
+Maintainer: Christian Zang <christian.zang@wzw.tum.de>
+}
+
+\references{
+        Zang, C., & Biondi, F. (2012) Dendroclimatic calibration in R:
+        The bootRes package for response and correlation function
+        analysis. \emph{Dendrochronologia} doi:10.1016/j.dendro.2012.08.001
+
+        Biondi, F. & Waikul, K. (2004) DENDROCLIM2002: A C++ program for
+        statistical calibration of climate signals in tree-ring
+        chronologies. \emph{Computers & Geosciences} 30:303-311
+	
+        Cook, E.R. and Kairiukstis, L.A. (1990) \emph{Methods of
+          Dendrochronology: Applications in the Environmental Sciences.}
+        Springer
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/dcc.Rd
+=====================================================
+\name{dcc}
+
+%% <LIST>
+\alias{dendroclim}
+%% </LIST>
+
+\Rdversion{1.1}
+\alias{dcc}
+%- Also NEED an '\alias' for EACH other topic documented here.
+\title{
+Response and correlation functions.
+}
+\description{
+This function calculates response and correlation functions from tree-ring chronologies and monthly climatic data. Function parameters are bootstrapped to calculate their significance and confidence intervals.
+}
+\usage{
+dcc(chrono, clim, method = "response", start = -6, end = 9, timespan =
+NULL, vnames = NULL, sb = TRUE, boot = TRUE, ci = 0.05)
+}
+\arguments{
+  \item{chrono}{
+\code{data.frame} containing a tree-ring chronologies, e.g. as obtained by \code{chron} of package dplR.
+}
+  \item{clim}{
+\code{data.frame} with climatic data in monthly resolution, with year, month and climate parameters in columns. All columns except year and month will be recognized as parameters for response or correlation function.
+}
+  \item{method}{
+string specifying the calculation method. Possible values are \dQuote{response} and \dQuote{correlation}. Partial strings are ok.
+}
+  \item{start}{
+integer value to determine the first month to be used as a predictor in the response or correlation function. A negative value denotes a start month from previous year, a positive value denotes a start month from current year.
+}
+  \item{end}{
+integer value to determine the last month to be used as a predictor in the response or correlation function. A negative value denotes an end month from previous year, a positive value denotes an end month from current year.
+}
+  \item{timespan}{
+integer vector of length 2 specifying the time interval (in years) to be considered for analysis. Defaults to the maximum possible interval.
+}
+  \item{vnames}{
+character vector with variable names. defaults to corresponding column names of \code{data.frame} clim.
+}
+  \item{sb}{
+logical flag indicating whether textual status bar should be suppressed. Suppression is recommended for e.g. Sweave files.
+}
+\item{boot}{
+logical flag indicating whether bootstrap resampling is to be
+performed. If set to FALSE, no significance estimates and confidence intervals are provided.
+}
+\item{ci}{
+numerical value to set the test level for significance test (values
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/dcplot.Rd
+=====================================================
+\name{dcplot}
+\Rdversion{1.1}
+\alias{dcplot}
+\title{
+Plotting Function for Response and Correlation Functions
+}
+\description{
+A simple plotting function for response and correlation functions derived from \code{\link{dcc}}.
+}
+\usage{
+dcplot(x, ci = TRUE, sig = TRUE, labels = NULL, vertical = FALSE)
+}
+%- maybe also 'usage' for other objects documented here.
+\arguments{
+  \item{x}{
+\code{data.frame} with coefficients derived from \code{\link{dcc}}.
+}
+  \item{ci}{
+logical: should confidence intervals be plotted?
+}
+  \item{sig}{
+logical: should significant coefficients be indicated by bars in darker grey?
+}
+  \item{labels}{
+character vector with labels to use for coefficients. Defaults to \code{rownames(x)}. 
+}
+  \item{vertical}{
+logical: should plots be laid out vertically (defaults to FALSE).
+}
+}
+\details{
+An arbitrary number of parameters can be displayed either horizontally
+or vertically in subplots.
+}
+\value{
+None. Invoked for side effect (plot).
+}
+\author{
+Christian Zang
+}
+
+\seealso{
+\code{\link{dcc}}
+}
+\examples{
+\dontrun{
+data(muc.clim)
+data(muc.spruce)
+
+# calculate and plot bootstrapped correlation function
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/mdcc.Rd
+=====================================================
+\name{mdcc}
+
+%% <LIST>
+\alias{mdcc}
+%% </LIST>
+
+\Rdversion{1.1}
+\alias{mdcc}
+%- Also NEED an '\alias' for EACH other topic documented here.
+\title{
+Moving Response and Correlation Functions.
+}
+\description{
+This function calculates moving response and correlation functions from
+tree-ring chronologies and monthly climatic data. The calculation is
+performed repeatedly for consecutive time windows. Function parameters
+may be bootstrapped to calculate their significance and confidence
+intervals.
+}
+\usage{
+mdcc(chrono, clim, method = "response", start = 4, end = 9, timespan =
+NULL, vnames = NULL, sb = TRUE, win.size = 25, win.offset =
+1, startlast = TRUE, boot = FALSE, ci = 0.05)
+}
+\arguments{
+  \item{chrono}{
+\code{data.frame} containing a tree-ring chronologies, e.g. as obtained by \code{chron} of package dplR.
+}
+  \item{clim}{
+\code{data.frame} with climatic data in monthly resolution, with year, month and climate parameters in columns. All columns except year and month will be recognized as parameters for response or correlation function.
+}
+  \item{method}{
+string specifying the calculation method. Possible values are \dQuote{response} and \dQuote{correlation}. Partial strings are ok.
+}
+  \item{start}{
+integer value to determine the first month to be used as a predictor in the response or correlation function. A negative value denotes a start month from previous year, a positive value denotes a start month from current year.
+}
+  \item{end}{
+integer value to determine the last month to be used as a predictor in the response or correlation function. A negative value denotes an end month from previous year, a positive value denotes an end month from current year.
+}
+  \item{timespan}{
+integer vector of length 2 specifying the time interval (in years) to be considered for analysis. Defaults to the maximum possible interval.
+}
+  \item{vnames}{
+character vector with variable names. defaults to corresponding column names of \code{data.frame} clim.
+}
+  \item{sb}{
+logical flag indicating whether textual status bar should be suppressed. Suppression is recommended for e.g. Sweave files.
+}
+\item{win.size}{
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/mdcplot.Rd
+=====================================================
+\name{mdcplot}
+\Rdversion{1.1}
+\alias{mdcplot}
+\title{
+Plotting Function for Moving Response and Correlation Functions
+}
+\description{
+A simple plotting function for response and correlation functions derived from \code{\link{mdcc}}.
+}
+\usage{
+mdcplot(x, rescale = TRUE, ...)
+}
+%- maybe also 'usage' for other objects documented here.
+\arguments{
+  \item{x}{
+\code{data.frame} with coefficients derived from \code{\link{mdcc}}.
+}
+  \item{rescale}{
+logical: should coefficients be rescaled to use full color gradient?
+}
+\item{...}{
+additional arguments passed to plot(...)
+}
+}
+\details{
+Rescaling of coefficients results in more contrast for color
+palette. For comparison of absolute values (between different plots),
+this should be set to FALSE. Rescaling is done seperately for positive
+and negative values.
+
+Previous to bootRes version 1.2.2, \code{\link{mdcc}} would return a
+single \code{data.frame} of coefficients, regardless if bootstrapping
+was enabled or not. In more recent versions, a \code{list} of
+\code{data.frames} is returned, containing members for coefficients and
+confidence intervals. The type of \code{x} is checked internally, so
+there is no change in the interface of \code{mdcplot}.
+}
+\value{
+None. Invoked for side effect (plot).
+}
+\author{
+Christian Zang
+}
+
+\seealso{
+\code{\link{mdcc}}
+}
+\examples{
+data(muc.clim)
+data(muc.spruce)
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/muc.clim.Rd
+=====================================================
+\name{muc.clim}
+\docType{data}
+\alias{muc.clim}
+\title{Monthly Mean Temperature and Total Precipitation for Forstenrieder Park, Munich}
+\description{
+  This dataset gives the monthly mean temperature and total precipitation at Forstenrieder Park, Munich, Bavaria, Germany. 
+}
+\usage{muc.clim}
+\format{A \code{data.frame} containing four columns with year, month, temperature and precipitation. }
+\references{
+  Kagerer, K. (2009) Wachstum von Fichte, Kiefer und Eiche in Abhaengigkeit von Klima und Kronenklasse im Forstenrieder Park, Muenchen. Diploma-Thesis, University of Applied Sciences Weihenstephan.
+}
+\keyword{datasets}
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/muc.fake.Rd
+=====================================================
+\name{muc.fake}
+\docType{data}
+\alias{muc.fake}
+\title{Modeled Tree-Ring Chronology of a Spruce Population near Munich}
+\description{
+  This dataset gives the modelled tree-ring widths for \emph{Picea abies}
+  at Forstenrieder Park, Munich, Bavaria, Germany. Tree growth was modeled as a response of low temperatures in previous and current July and August, high temperatures in current February and March, and high precipitation amounts in current July and August.
+}
+\usage{muc.fake}
+\format{A \code{data.frame} containing tree-ring indices with respective years as \code{rownames}.
+  in rows. }
+\references{
+  Kagerer, K. (2009) Wachstum von Fichte, Kiefer und Eiche in Abhaengigkeit von Klima und Kronenklasse im Forstenrieder Park, Muenchen. Diploma-Thesis, University of Applied Sciences Weihenstephan.
+}
+\keyword{datasets}
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/muc.spruce.Rd
+=====================================================
+\name{muc.spruce}
+\docType{data}
+\alias{muc.spruce}
+\title{Tree-Ring Chronology of a Spruce Population near Munich}
+\description{
+  This dataset gives the tree-ring indices for \emph{Picea abies}
+  at Forstenrieder Park, Munich, Bavaria, Germany. The chronology represents
+  20 cores from 10 trees. The series were read in using
+  \code{\link[dplR]{read.rwl}} from package \code{dplR}, detrended using a 60a
+  spline with 50\% frequency cutoff (function \code{\link[dplR]{detrend}}),
+  and averaged to a chronology using a robust mean \code{\link[dplR]{chron}}.
+}
+\usage{muc.spruce}
+\format{A \code{data.frame} containing tree-ring indices and replication
+  depth with respective years as \code{rownames}.}
+\references{
+  Zang, C., Pretzsch, H., Rothe, A., 2011. Size-dependent responses to
+  summer drought in Scots pine, Norway spruce and common oak. Trees -
+  Structure and Function.  URL
+  http://www.springerlink.com/index/10.1007/s00468-011-0617-z
+}
+\keyword{datasets}
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/rt.prec.Rd
+=====================================================
+\name{rt.prec}
+\docType{data}
+\alias{rt.prec}
+\title{Monthly Precipitation Sums for Rothenburg ob der Tauber, Germany}
+\description{
+  This dataset gives the monthly precipitation sum  at Rothenburg ob der
+  Tauber, Bavaria, Germany in a decadal (DENDROCLIM2002-style) format)
+}
+\usage{rt.prec}
+\format{A \code{data.frame} containing thirteen columns with year and
+  twelve months of precipitation data in degree Celsius. }
+\references{
+  Zang, C. (2010) Growth reaction of precerate forest trees to summer
+  drought -- a multispecies tree-ring network approach. Ph.D. Thesis,
+  Technische Universitaet Muenchen, 164 pp.
+}
+\keyword{datasets}
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/rt.spruce.Rd
+=====================================================
+\name{rt.spruce}
+\docType{data}
+\alias{rt.spruce}
+\title{Tree-Ring Chronology of a Spruce Population at Rothenburg ob der Tauber}
+\description{
+  This dataset gives the tree-ring indices for \emph{Picea abies} at
+  Rothenburg ob der Tauber, Bavaria, Germany. The chronology represents
+  20 cores from 10 trees. The series were read in using
+  \code{\link[dplR]{read.rwl}} from package \code{dplR}, detrended using a 60a
+  spline with 50\% frequency cutoff (function \code{\link[dplR]{detrend}}),
+  and averaged to a chronology using a robust mean \code{\link[dplR]{chron}}.
+}
+\usage{rt.spruce}
+\format{A \code{data.frame} containing tree-ring indices and replication
+  depth with respective years as \code{rownames}.}
+\references{
+  Zang, C., Rothe, A., Weis, W., Pretzsch, H., 2011. Zur Baumarteneignung bei Klimawandel:
+Ableitung der Trockenstress-Anf\"{a}lligkeit wichtiger Waldbaumarten aus
+Jahrringbreiten. Allgemeine Forst- und Jagdzeitung 182, 98-112.
+}
+\keyword{datasets}
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input/rt.temp.Rd
+=====================================================
+\name{rt.temp}
+\docType{data}
+\alias{rt.temp}
+\title{Monthly Mean Temperature for Rothenburg ob der Tauber, Germany}
+\description{
+  This dataset gives the monthly mean temperature at Rothenburg ob der
+  Tauber, Bavaria, Germany in a decadal (DENDROCLIM2002-style) format)
+}
+\usage{rt.temp}
+\format{A \code{data.frame} containing thirteen columns with year and
+  twelve months of temperature data in degree Celsius. }
+\references{
+  Zang, C. (2010) Growth reaction of temperate forest trees to summer
+  drought -- a multispecies tree-ring network approach. Ph.D. Thesis,
+  Technische Universitaet Muenchen, 164 pp.
+}
+\keyword{datasets}

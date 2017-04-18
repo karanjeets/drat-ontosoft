@@ -1,0 +1,303 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2017-04-18T03:24:19-05:00
+
+Notes: 0
+Binaries: 21
+Archives: 0
+Standards: 7
+
+Apache Licensed: 0
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+6 Unknown Licenses
+
+*****************************************************
+
+Files with unapproved licenses:
+
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_.ipynb_checkpoints_|_PyleoclimQuickstart-checkpoint.ipynb
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_.buildinfo
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Example_|_.ipynb_checkpoints_|_PyleoclimQuickstart-checkpoint.ipynb
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Example_|_PyleoclimQuickstart.ipynb
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_MANIFEST
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim.egg-info_|_PKG-INFO
+
+*****************************************************
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_.ipynb_checkpoints_|_PyleoclimQuickstart-checkpoint.ipynb
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_doctrees_|_Basic.doctree
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_doctrees_|_Introduction.doctree
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_doctrees_|_LIPDutils.doctree
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_doctrees_|_Main.doctree
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_doctrees_|_Mapping.doctree
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_doctrees_|_SummaryPlots.doctree
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_doctrees_|_TSPlots.doctree
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_doctrees_|_environment.pickle
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_doctrees_|_index.doctree
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_.buildinfo
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_objects.inv
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Example_|_.ipynb_checkpoints_|_PyleoclimQuickstart-checkpoint.ipynb
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Example_|_MD98-2170.Stott.2004.lpd
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Example_|_MD982176.Stott.2004.lpd
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Example_|_ODP1098B.lpd
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Example_|_PyleoclimQuickstart.ipynb
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_MANIFEST
+  GPL3  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_license
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim.egg-info_|_PKG-INFO
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_.DS_Store
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|___pycache___|___main__.cpython-35.pyc
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|___pycache___|_Basic.cpython-35.pyc
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|___pycache___|_LiPDutils.cpython-35.pyc
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|___pycache___|_Map.cpython-35.pyc
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|___pycache___|_Plot.cpython-35.pyc
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|___pycache___|_SummaryPlots.cpython-35.pyc
+  B     /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim_|_pkg_resources_|___pycache___|_TSPlot.cpython-35.pyc
+ 
+*****************************************************
+
+ Printing headers for text files without a valid license header...
+ 
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_.ipynb_checkpoints_|_PyleoclimQuickstart-checkpoint.ipynb
+=====================================================
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<img src=\"http://www.organicdatacuration.org/linkedearth/images/5/51/EarthLinked_Banner_blue_NoShadow.jpg\">\n",
+    "\n",
+    "\n",
+    "# Welcome to Pyleoclim!\n",
+    "\n",
+    "Pyleoclim is a python package for the analysis of paleoclimate data. It uses the <a href=\"http://www.clim-past.net/12/1093/2016/cp-12-1093-2016-discussion.html\">LiPD</a> format.\n",
+    "\n",
+    "Information about how LiPD, including a Notebook highlighting the main functionalities can be found <a href=\"https://github.com/nickmckay/LiPD-utilities\">here</a>.\n",
+    "\n",
+    "If you're new to Python and Jupyter Notebook, a quick tutorial is available <a href=\"https://github.com/nickmckay/LiPD-utilities/tree/master/Examples\">here</a>\n",
+    "\n",
+    "## Table of contents\n",
+    "* [Mapping](#maps)\n",
+    "* [Plotting](#plots)\n",
+    "    * [Summary plots](#sumplots)\n",
+    "* [Basic functionalities](#basic)\n",
+    "\n",
+    "To start, import the pyleoclim module. Example LiPD files can be downloaded here."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "\n",
+      "Choose a loading option:\n",
+      "1. Select specific file(s)\n",
+      "2. Load entire folder\n",
+      "Option: 2\n",
+      "Where are your file(s) stored?\n",
+      "1. Current\n",
+      "2. Browse\n",
+      "3. Downloads\n",
+      "4. Desktop\n",
+      "\n",
+      "Option: 2\n"
+     ]
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_.buildinfo
+=====================================================
+# Sphinx build info version 1
+# This file hashes the configuration used when building these files. When it is not found, a full rebuild will be done.
+config: 
+tags: 
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Example_|_.ipynb_checkpoints_|_PyleoclimQuickstart-checkpoint.ipynb
+=====================================================
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<img src=\"http://www.organicdatacuration.org/linkedearth/images/5/51/EarthLinked_Banner_blue_NoShadow.jpg\">\n",
+    "\n",
+    "\n",
+    "# Welcome to Pyleoclim!\n",
+    "\n",
+    "Pyleoclim is a python package for the analysis of paleoclimate data. It uses the <a href=\"http://www.clim-past.net/12/1093/2016/cp-12-1093-2016-discussion.html\">LiPD</a> format.\n",
+    "\n",
+    "Information about how LiPD, including a Notebook highlighting the main functionalities can be found <a href=\"https://github.com/nickmckay/LiPD-utilities\">here</a>.\n",
+    "\n",
+    "If you're new to Python and Jupyter Notebook, a quick tutorial is available <a href=\"https://github.com/nickmckay/LiPD-utilities/tree/master/Examples\">here</a>\n",
+    "\n",
+    "## Table of contents\n",
+    "* [Mapping](#maps)\n",
+    "* [Plotting](#plots)\n",
+    "    * [Summary plots](#sumplots)\n",
+    "* [Basic functionalities](#basic)\n",
+    "\n",
+    "To start, import the pyleoclim module. Example LiPD files can be downloaded <a href =\"https://github.com/LinkedEarth/Pyleoclim_util/tree/master/Example\">here</a>."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Trying `CDLL(/usr/lib/libc.dylib)`\n",
+      "Library path: '/usr/lib/libc.dylib'\n",
+      "DLL: <CDLL '/usr/lib/libc.dylib', handle 7fff6ae79d08 at 0x11629f860>\n"
+     ]
+    }
+   ],
+   "source": [
+    "import pyleoclim as pyleo"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Example_|_PyleoclimQuickstart.ipynb
+=====================================================
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<img src=\"http://www.organicdatacuration.org/linkedearth/images/5/51/EarthLinked_Banner_blue_NoShadow.jpg\">\n",
+    "\n",
+    "\n",
+    "# Welcome to Pyleoclim!\n",
+    "\n",
+    "Pyleoclim is a python package for the analysis of paleoclimate data. It uses the <a href=\"http://www.clim-past.net/12/1093/2016/cp-12-1093-2016-discussion.html\">LiPD</a> format.\n",
+    "\n",
+    "Information about how LiPD, including a Notebook highlighting the main functionalities can be found <a href=\"https://github.com/nickmckay/LiPD-utilities\">here</a>.\n",
+    "\n",
+    "If you're new to Python and Jupyter Notebook, a quick tutorial is available <a href=\"https://github.com/nickmckay/LiPD-utilities/tree/master/Examples\">here</a>\n",
+    "\n",
+    "## Table of contents\n",
+    "* [Mapping](#maps)\n",
+    "* [Plotting](#plots)\n",
+    "    * [Summary plots](#sumplots)\n",
+    "* [Statistics](#basic)\n",
+    "\n",
+    "To start, import the pyleoclim module. Example LiPD files can be downloaded <a href =\"https://github.com/LinkedEarth/Pyleoclim_util/tree/master/Example\">here</a>."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "import pyleoclim as pyleo"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "The pyleoclim package works in tandem with the <a href='https://github.com/nickmckay/LiPD-utilities/tree/master/Python'>LiPD utilities</a>. The following function allows to either give the path of the directory containing the LiPD files or directly pass a list of timeseries obtained from lipd.extractTs(). Wihtout argument, this function will trigger a GUI to allow you to navigate to the directory. \n",
+    "\n",
+    "If you forget this step, you'll be prompted when using any of the pyleoclim methods.\n",
+    "\n",
+    "<div class=\"alert alert-warning\" role=\"alert\" style=\"margin: 10px\">\n",
+    "<p>**NOTE**</p>\n",
+    "<p> If the list of timeseries is specified, the path ***needs*** to be specified as well</p>\n",
+    "</div>  "
+   ]
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_MANIFEST
+=====================================================
+# file GENERATED by distutils, do NOT edit
+setup.cfg
+setup.py
+Pyleoclim/__init__.py
+Pyleoclim/__main__.py
+Pyleoclim/start.py
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856687/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_pyleoclim.egg-info_|_PKG-INFO
+=====================================================
+Metadata-Version: 1.1
+Name: pyleoclim
+Version: 0.1.4
+Summary: A Python package for paleoclimate data analysis
+Home-page: https://github.com/LinkedEarth/Pyleoclim_util/pyleoclim
+Author: Deborah Khider
+Author-email: dkhider@gmail.com
+License: GNU Public
+Download-URL: https://github.com/LinkedEarth/Pyleoclim_util/tarball/0.1.4
+Description: |PyPI| |PyPI| |PyPI| |license|
+        
+        Pyleoclim
+        =========
+        
+        **Python Package for the Analysis of Paleoclimate Data**
+        
+        **Table of contents**
+        
+        -  `What is it? <#what>`__
+        -  `Installation <#install>`__
+        -  `Version Information <#version>`__
+        -  `Quickstart Guide <#quickstart>`__
+        -  `Requirements <#req>`__
+        -  `Further information <#further_info>`__
+        -  `Contact <#contact>`__
+        -  `License <#license>`__
+        -  `Disclaimer <#disclaimer>`__
+        
+        Current Version: 0.1.4
+        
+        What is it?
+        -----------
+        
+        Pyleoclim is a Python package primarily geared towards the analysis and
+        visualization of paleoclimate data. Such data often come in the form of
+        timeseries with missing values and age uncertainties, and the package
+        includes several low-level methods to deal with these issues, as well as
+        high-level methods that re-use those to perform scientific workflows.
+        
+        The package assumes that data are stored in the Linked Paleo Data
+        (`LiPD <http://www.clim-past.net/12/1093/2016/>`__) format and makes
+        extensive use of the `LiPD
+        utilities <http://nickmckay.github.io/LiPD-utilities/>`__. The package
+        is aware of age ensembles stored via LiPD and uses them for
+        time-uncertain analyses very much like
+        `GeoChronR <http://nickmckay.github.io/GeoChronR/>`__.
+        
+        **Current capabilities**: - binning - interpolation - plotting maps,
+        timeseries, and basic age model information - paleo-aware correlation
+        analysis (isopersistent, isospectral and classical t-test)

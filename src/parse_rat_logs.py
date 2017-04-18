@@ -35,19 +35,24 @@ class ParseRat(object):
             h = 0
             cur_file = ''
             cur_header = ''
+            cur_section = ''
             with open(filename, 'rb') as f:
                 for line in f:
                     if '*****************************************************' in line:
-                        section += 1
-                    if section == 4:
+                        cur_section = ''
+                    if line.startswith('  Files with Apache'):
+                        cur_section = 'licenses'
+                    if line.startswith(' Printing headers for '):
+                        cur_section = 'headers'
+                    if cur_section == 'licenses':
                         l += 1
-                        if l > 5:
+                        if l > 4:
                             line = line.strip()
                             if line:
                                 li = self.parse_license(line)
                                 rat_license[li[0]] = li[1]
                                 #print(li)
-                    if section == 5:
+                    if cur_section == 'headers':
                         if '=====================================================' in line or '== File:' in line:
                             h += 1
                         if h == 2:
@@ -63,7 +68,7 @@ class ParseRat(object):
                 rat_header[cur_file] = cur_header.split("\n", 1)[1]
 
         for key in rat_header:
-            print('Key: ' + key + ', License: ' + rat_license[key] + ', Header: ' + rat_header[key])
+            print('Key: ' + key + ', License: ' + rat_license[key])
 
 
 if __name__ == '__main__':

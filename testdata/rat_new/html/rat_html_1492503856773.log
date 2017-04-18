@@ -1,0 +1,595 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2017-04-18T03:24:18-05:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 10
+
+Apache Licensed: 0
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+10 Unknown Licenses
+
+*****************************************************
+
+Files with unapproved licenses:
+
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_Basic.html
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_Introduction.html
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_LIPDutils.html
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_Main.html
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_Mapping.html
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_SummaryPlots.html
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_TSPlots.html
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_genindex.html
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_index.html
+  /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_search.html
+
+*****************************************************
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_Basic.html
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_Introduction.html
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_LIPDutils.html
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_Main.html
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_Mapping.html
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_SummaryPlots.html
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_TSPlots.html
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_genindex.html
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_index.html
+ !????? /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_search.html
+ 
+*****************************************************
+
+ Printing headers for text files without a valid license header...
+ 
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_Basic.html
+=====================================================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Basic Module &mdash; Pyleoclim 0.1.4 documentation</title>
+    
+    <link rel="stylesheet" href="_static/sphinxdoc.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.1.4',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <link rel="top" title="Pyleoclim 0.1.4 documentation" href="index.html" />
+    <link rel="next" title="Mapping Module" href="Mapping.html" />
+    <link rel="prev" title="Main Functions" href="Main.html" /> 
+  </head>
+  <body role="document">
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="Mapping.html" title="Mapping Module"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="Main.html" title="Main Functions"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Pyleoclim 0.1.4 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="Main.html"
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_Introduction.html
+=====================================================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Pyleoclim &mdash; Pyleoclim 0.1.4 documentation</title>
+    
+    <link rel="stylesheet" href="_static/sphinxdoc.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.1.4',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <link rel="top" title="Pyleoclim 0.1.4 documentation" href="index.html" />
+    <link rel="next" title="Main Functions" href="Main.html" />
+    <link rel="prev" title="Welcome to Pyleoclim’s documentation!" href="index.html" /> 
+  </head>
+  <body role="document">
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="Main.html" title="Main Functions"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="index.html" title="Welcome to Pyleoclim’s documentation!"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Pyleoclim 0.1.4 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table Of Contents</a></h3>
+  <ul>
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_LIPDutils.html
+=====================================================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Manipulating LiPD files &mdash; Pyleoclim 0.1.4 documentation</title>
+    
+    <link rel="stylesheet" href="_static/sphinxdoc.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.1.4',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <link rel="top" title="Pyleoclim 0.1.4 documentation" href="index.html" />
+    <link rel="prev" title="Summary Plots Module" href="SummaryPlots.html" /> 
+  </head>
+  <body role="document">
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="SummaryPlots.html" title="Summary Plots Module"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Pyleoclim 0.1.4 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Manipulating LiPD files</a><ul>
+<li><a class="reference internal" href="#creating-directories-and-saving-figures">Creating directories and saving figures</a></li>
+<li><a class="reference internal" href="#id1">Manipulating LiPD files</a></li>
+<li><a class="reference internal" href="#manipulating-variables-in-a-lipd-file">Manipulating Variables in a LiPD file</a></li>
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_Main.html
+=====================================================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Main Functions &mdash; Pyleoclim 0.1.4 documentation</title>
+    
+    <link rel="stylesheet" href="_static/sphinxdoc.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.1.4',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <link rel="top" title="Pyleoclim 0.1.4 documentation" href="index.html" />
+    <link rel="next" title="Basic Module" href="Basic.html" />
+    <link rel="prev" title="Pyleoclim" href="Introduction.html" /> 
+  </head>
+  <body role="document">
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="Basic.html" title="Basic Module"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="Introduction.html" title="Pyleoclim"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Pyleoclim 0.1.4 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table Of Contents</a></h3>
+  <ul>
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_Mapping.html
+=====================================================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Mapping Module &mdash; Pyleoclim 0.1.4 documentation</title>
+    
+    <link rel="stylesheet" href="_static/sphinxdoc.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.1.4',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <link rel="top" title="Pyleoclim 0.1.4 documentation" href="index.html" />
+    <link rel="next" title="Timeseries Plots Module" href="TSPlots.html" />
+    <link rel="prev" title="Basic Module" href="Basic.html" /> 
+  </head>
+  <body role="document">
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="TSPlots.html" title="Timeseries Plots Module"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="Basic.html" title="Basic Module"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Pyleoclim 0.1.4 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="Basic.html"
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_SummaryPlots.html
+=====================================================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Summary Plots Module &mdash; Pyleoclim 0.1.4 documentation</title>
+    
+    <link rel="stylesheet" href="_static/sphinxdoc.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.1.4',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <link rel="top" title="Pyleoclim 0.1.4 documentation" href="index.html" />
+    <link rel="next" title="Manipulating LiPD files" href="LIPDutils.html" />
+    <link rel="prev" title="Timeseries Plots Module" href="TSPlots.html" /> 
+  </head>
+  <body role="document">
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="LIPDutils.html" title="Manipulating LiPD files"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="TSPlots.html" title="Timeseries Plots Module"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Pyleoclim 0.1.4 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="TSPlots.html"
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_TSPlots.html
+=====================================================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Timeseries Plots Module &mdash; Pyleoclim 0.1.4 documentation</title>
+    
+    <link rel="stylesheet" href="_static/sphinxdoc.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.1.4',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <link rel="top" title="Pyleoclim 0.1.4 documentation" href="index.html" />
+    <link rel="next" title="Summary Plots Module" href="SummaryPlots.html" />
+    <link rel="prev" title="Mapping Module" href="Mapping.html" /> 
+  </head>
+  <body role="document">
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="SummaryPlots.html" title="Summary Plots Module"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="Mapping.html" title="Mapping Module"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Pyleoclim 0.1.4 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="Mapping.html"
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_genindex.html
+=====================================================
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Index &mdash; Pyleoclim 0.1.4 documentation</title>
+    
+    <link rel="stylesheet" href="_static/sphinxdoc.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.1.4',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <link rel="top" title="Pyleoclim 0.1.4 documentation" href="index.html" /> 
+  </head>
+  <body role="document">
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="#" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="nav-item nav-item-0"><a href="index.html">Pyleoclim 0.1.4 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+
+   
+
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_index.html
+=====================================================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Welcome to Pyleoclim’s documentation! &mdash; Pyleoclim 0.1.4 documentation</title>
+    
+    <link rel="stylesheet" href="_static/sphinxdoc.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.1.4',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <link rel="top" title="Pyleoclim 0.1.4 documentation" href="#" />
+    <link rel="next" title="Pyleoclim" href="Introduction.html" /> 
+  </head>
+  <body role="document">
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="Introduction.html" title="Pyleoclim"
+             accesskey="N">next</a> |</li>
+        <li class="nav-item nav-item-0"><a href="#">Pyleoclim 0.1.4 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="#">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Welcome to Pyleoclim&#8217;s documentation!</a></li>
+<li><a class="reference internal" href="#indices-and-tables">Indices and tables</a></li>
+</ul>
+
+
+=====================================================
+== File: /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492503856773/input/_|_gpfs_|_flash_|_users_|_tg830544_|_drat-ontosoft_|_softwares_|_github_|_c4p_|_LinkedEarth-Pyleoclim_util_|_Documentation_|__build_|_html_|_search.html
+=====================================================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Search &mdash; Pyleoclim 0.1.4 documentation</title>
+    
+    <link rel="stylesheet" href="_static/sphinxdoc.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.1.4',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/javascript" src="_static/searchtools.js"></script>
+    <link rel="top" title="Pyleoclim 0.1.4 documentation" href="index.html" />
+  <script type="text/javascript">
+    jQuery(function() { Search.loadIndex("searchindex.js"); });
+  </script>
+  
+  <script type="text/javascript" id="searchindexloader"></script>
+   
+
+  </head>
+  <body role="document">
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="nav-item nav-item-0"><a href="index.html">Pyleoclim 0.1.4 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+        </div>
+      </div>

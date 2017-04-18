@@ -1,0 +1,196 @@
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance createExeDir
+INFO: Creating PGE execution working directory: [/gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance updateStatus
+INFO: Updating status to workflow as [BUILDING CONFIG FILE]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance createDynamicConfigFiles
+INFO: Starting creation of sci pge config files...
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance createDynamicConfigFiles
+INFO: Successfully wrote all sci pge config files!
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance updateStatus
+INFO: Updating status to workflow as [STAGING INPUT]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance stageFiles
+INFO: No files to stage.
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance runPge
+INFO: PGE start time [Sun Apr 16 21:43:09 CDT 2017]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance buildPgeRunScript
+FINE: Creating PGE run script for shell [sh] with contents [export PATH=$HOME/bin/:${PATH}, shopt -s expand_aliases, alias rat="java -jar /gpfs/flash/users/tg830544/drat-ontosoft/deploy/rat/lib/apache-rat-0.12.jar", echo "Creating working dirs", mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input ; mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/output; mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/logs, echo "Staging input to /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input", FILELIST=`python -c "print ' '.join('/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/bootRes-internal.rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/rt.prec.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/mdcplot.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/mdcc.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/muc.clim.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/muc.fake.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/dcc.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/dcplot.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/bootRes-package.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/muc.spruce.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/rt.temp.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/rt.spruce.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/inst/CITATION,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/inst/Changelog,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/data/muc.clim.RData,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/data/muc.spruce.rda,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/data/rt.temp.RData,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/data/rt.prec.RData,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/data/rt.spruce.rda,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/data/muc.fake.RData,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/NAMESPACE,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/DESCRIPTION'.split(','))"`, for file in $FILELIST; do, rsync -av --backup --suffix=_`date +"%m%d%Y_%H%M"` $file /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input, done, echo "Running Apache RAT on /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input", rat /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input > /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/output/rat_octet-stream_1492396989541.log]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance getPgeScriptName
+FINE: Generated script file name [sciPgeExeScript_RatCodeAudit]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance getScriptPath
+FINE: Script file with be written to [/gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/sciPgeExeScript_RatCodeAudit]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance updateStatus
+INFO: Updating status to workflow as [PGE EXEC]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance runPge
+INFO: Starting execution of PGE...
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance getPgeScriptName
+FINE: Generated script file name [sciPgeExeScript_RatCodeAudit]
+Apr 16, 2017 9:43:09 PM org.apache.oodt.cas.pge.PGETaskInstance getScriptPath
+FINE: Script file with be written to [/gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/sciPgeExeScript_RatCodeAudit]
+Apr 16, 2017 9:43:11 PM org.apache.oodt.commons.io.LoggerOutputStream flush
+SEVERE: ERROR: mkdir: cannot create directory ￢ﾀﾘ/gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/logs￢ﾀﾙ: File exists
+
+Apr 16, 2017 9:43:11 PM org.apache.oodt.commons.io.LoggerOutputStream flush
+INFO: OUTPUT: Creating working dirs
+OUTPUT: Staging input to /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input
+OUTPUT: sending incremental file list
+OUTPUT: bootRes-internal.rd
+OUTPUT: 
+OUTPUT: sent 474 bytes  received 31 bytes  1010.00 bytes/sec
+OUTPUT: total size is 364  speedup is 0.72
+OUTPUT: sending incremental file list
+OUTPUT: rt.prec.Rd
+OUTPUT: 
+OUTPUT: sent 742 bytes  received 31 bytes  1546.00 bytes/sec
+OUTPUT: total size is 641  speedup is 0.83
+OUTPUT: sending incrementa
+Apr 16, 2017 9:43:11 PM org.apache.oodt.commons.io.LoggerOutputStream flush
+INFO: OUTPUT: Creating working dirs
+OUTPUT: Staging input to /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input
+OUTPUT: sending incremental file list
+OUTPUT: bootRes-internal.rd
+OUTPUT: 
+OUTPUT: sent 474 bytes  received 31 bytes  1010.00 bytes/sec
+OUTPUT: total size is 364  speedup is 0.72
+OUTPUT: sending incremental file list
+OUTPUT: rt.prec.Rd
+OUTPUT: 
+OUTPUT: sent 742 bytes  received 31 bytes  1546.00 bytes/sec
+OUTPUT: total size is 641  speedup is 0.83
+OUTPUT: sending incrementa
+Apr 16, 2017 9:43:11 PM org.apache.oodt.cas.pge.PGETaskInstance runPge
+INFO: Successfully completed running: '[export PATH=$HOME/bin/:${PATH}, shopt -s expand_aliases, alias rat="java -jar /gpfs/flash/users/tg830544/drat-ontosoft/deploy/rat/lib/apache-rat-0.12.jar", echo "Creating working dirs", mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input ; mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/output; mkdir /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/logs, echo "Staging input to /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input", FILELIST=`python -c "print ' '.join('/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/bootRes-internal.rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/rt.prec.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/mdcplot.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/mdcc.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/muc.clim.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/muc.fake.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/dcc.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/dcplot.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/bootRes-package.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/muc.spruce.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/rt.temp.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/man/rt.spruce.Rd,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/inst/CITATION,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/inst/Changelog,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/data/muc.clim.RData,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/data/muc.spruce.rda,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/data/rt.temp.RData,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/data/rt.prec.RData,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/data/rt.spruce.rda,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/data/muc.fake.RData,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/NAMESPACE,/gpfs/flash/users/tg830544/drat-ontosoft/softwares/github/c4p/cszang-bootRes/DESCRIPTION'.split(','))"`, for file in $FILELIST; do, rsync -av --backup --suffix=_`date +"%m%d%Y_%H%M"` $file /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input, done, echo "Running Apache RAT on /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input", rat /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input > /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/output/rat_octet-stream_1492396989541.log]'
+Apr 16, 2017 9:43:11 PM org.apache.oodt.commons.io.LoggerOutputStream flush
+INFO: l file list
+OUTPUT: mdcplot.Rd
+OUTPUT: 
+OUTPUT: sent 1599 bytes  received 31 bytes  3260.00 bytes/sec
+OUTPUT: total size is 1498  speedup is 0.92
+OUTPUT: sending incremental file list
+OUTPUT: mdcc.Rd
+OUTPUT: 
+OUTPUT: sent 6581 bytes  received 31 bytes  13224.00 bytes/sec
+OUTPUT: total size is 6483  speedup is 0.98
+OUTPUT: sending incremental file list
+OUTPUT: muc.clim.Rd
+OUTPUT: 
+OUTPUT: sent 729 bytes  received 31 bytes  1520.00 bytes/sec
+OUTPUT: total size is 627  speedup is 0.82
+OUTPUT: sending increment
+Apr 16, 2017 9:43:11 PM org.apache.oodt.cas.pge.PGETaskInstance runPge
+INFO: PGE end time [Sun Apr 16 21:43:09 CDT 2017]
+Apr 16, 2017 9:43:11 PM org.apache.oodt.commons.io.LoggerOutputStream flush
+INFO: al file list
+OUTPUT: muc.fake.Rd
+OUTPUT: 
+OUTPUT: sent 930 bytes  received 31 bytes  1922.00 bytes/sec
+OUTPUT: total size is 828  speedup is 0.86
+OUTPUT: sending incremental file list
+OUTPUT: dcc.Rd
+OUTPUT: 
+OUTPUT: sent 6085 bytes  received 31 bytes  12232.00 bytes/sec
+OUTPUT: total size is 5988  speedup is 0.98
+OUTPUT: sending incremental file list
+OUTPUT: dcplot.Rd
+OUTPUT: 
+OUTPUT: sent 1313 bytes  received 31 bytes  2688.00 bytes/sec
+OUTPUT: total size is 1213  speedup is 0.90
+OUTPUT: sending incrementa
+Apr 16, 2017 9:43:11 PM org.apache.oodt.cas.pge.PGETaskInstance runPge
+INFO: PGE runtime in millis [1600]
+Apr 16, 2017 9:43:11 PM org.apache.oodt.commons.io.LoggerOutputStream flush
+INFO: l file list
+OUTPUT: bootRes-package.Rd
+OUTPUT: 
+OUTPUT: sent 1820 bytes  received 31 bytes  3702.00 bytes/sec
+OUTPUT: total size is 1711  speedup is 0.92
+OUTPUT: sending incremental file list
+OUTPUT: muc.spruce.Rd
+OUTPUT: 
+OUTPUT: sent 1078 bytes  received 31 bytes  2218.00 bytes/sec
+OUTPUT: total size is 974  speedup is 0.88
+OUTPUT: sending incremental file list
+OUTPUT: rt.temp.Rd
+OUTPUT: 
+OUTPUT: sent 736 bytes  received 31 bytes  1534.00 bytes/sec
+OUTPUT: total size is 635  speedup is 0.83
+OUTPUT: sendin
+Apr 16, 2017 9:43:11 PM org.apache.oodt.cas.pge.PGETaskInstance createProductCrawler
+INFO: Configuring ProductCrawler...
+Apr 16, 2017 9:43:11 PM org.apache.oodt.commons.io.LoggerOutputStream flush
+INFO: g incremental file list
+OUTPUT: rt.spruce.Rd
+OUTPUT: 
+OUTPUT: sent 1082 bytes  received 31 bytes  2226.00 bytes/sec
+OUTPUT: total size is 979  speedup is 0.88
+OUTPUT: sending incremental file list
+OUTPUT: CITATION
+OUTPUT: 
+OUTPUT: sent 881 bytes  received 31 bytes  1824.00 bytes/sec
+OUTPUT: total size is 782  speedup is 0.86
+OUTPUT: sending incremental file list
+OUTPUT: Changelog
+OUTPUT: 
+OUTPUT: sent 1990 bytes  received 31 bytes  4042.00 bytes/sec
+OUTPUT: total size is 1890  speedup is 0.94
+OUTPUT: sendin
+Apr 16, 2017 9:43:11 PM org.apache.oodt.cas.pge.PGETaskInstance createProductCrawler
+FINE: Passing Workflow Metadata to CAS-Crawler as global metadata . . .
+Apr 16, 2017 9:43:11 PM org.apache.oodt.commons.io.LoggerOutputStream flush
+INFO: g incremental file list
+OUTPUT: muc.clim.RData
+OUTPUT: 
+OUTPUT: sent 3741 bytes  received 31 bytes  7544.00 bytes/sec
+OUTPUT: total size is 3636  speedup is 0.96
+OUTPUT: sending incremental file list
+OUTPUT: muc.spruce.rda
+OUTPUT: 
+OUTPUT: sent 1065 bytes  received 31 bytes  2192.00 bytes/sec
+OUTPUT: total size is 960  speedup is 0.88
+OUTPUT: sending incremental file list
+OUTPUT: rt.temp.RData
+OUTPUT: 
+OUTPUT: sent 1879 bytes  received 31 bytes  3820.00 bytes/sec
+OUTPUT: total size is 1775  speedup is 0.93
+
+Apr 16, 2017 9:43:11 PM org.apache.oodt.cas.pge.PGETaskInstance createProductCrawler
+FINE: Created ProductCrawler [org.apache.oodt.cas.crawl.StdProductCrawler]
+Apr 16, 2017 9:43:11 PM org.apache.oodt.commons.io.LoggerOutputStream flush
+INFO: OUTPUT: sending incremental file list
+OUTPUT: rt.prec.RData
+OUTPUT: 
+OUTPUT: sent 1495 bytes  received 31 bytes  3052.00 bytes/sec
+OUTPUT: total size is 1391  speedup is 0.91
+OUTPUT: sending incremental file list
+OUTPUT: rt.spruce.rda
+OUTPUT: 
+OUTPUT: sent 1280 bytes  received 31 bytes  2622.00 bytes/sec
+OUTPUT: total size is 1176  speedup is 0.90
+OUTPUT: sending incremental file list
+OUTPUT: muc.fake.RData
+OUTPUT: 
+OUTPUT: sent 870 bytes  received 31 bytes  1802.00 bytes/sec
+OUTPUT: total size is 765  spee
+Apr 16, 2017 9:43:11 PM org.apache.oodt.commons.io.LoggerOutputStream flush
+INFO: dup is 0.85
+OUTPUT: sending incremental file list
+OUTPUT: NAMESPACE
+OUTPUT: 
+OUTPUT: sent 225 bytes  received 31 bytes  512.00 bytes/sec
+OUTPUT: total size is 125  speedup is 0.49
+OUTPUT: sending incremental file list
+OUTPUT: DESCRIPTION
+OUTPUT: 
+OUTPUT: sent 475 bytes  received 31 bytes  337.33 bytes/sec
+OUTPUT: total size is 373  speedup is 0.74
+OUTPUT: Running Apache RAT on /gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/input
+
+Apr 16, 2017 9:43:11 PM org.apache.oodt.cas.pge.PGETaskInstance updateStatus
+INFO: Updating status to workflow as [CRAWLING]
+Apr 16, 2017 9:43:11 PM org.apache.oodt.cas.pge.PGETaskInstance runIngestCrawler
+INFO: Crawling for products in [/gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/output]
+Apr 16, 2017 9:43:11 PM org.apache.oodt.cas.pge.PGETaskInstance verifyIngests
+INFO: Verifying ingests successful...
+Apr 16, 2017 9:43:11 PM org.apache.oodt.cas.pge.PGETaskInstance verifyIngests
+WARNING: Product was not ingested [file='/gpfs/flash/users/tg830544/drat-ontosoft/deploy/data/jobs/rat/1492396989541/output/rat_octet-stream_1492396989541.log.met',result='PRECONDS_FAILED',msg='Failed to pass preconditions']
+Apr 16, 2017 9:43:11 PM org.apache.oodt.cas.pge.PGETaskInstance verifyIngests
+INFO: Ingests were successful
