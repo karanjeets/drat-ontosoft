@@ -31,10 +31,10 @@ class ParseRepos(object):
                 try:
                     next(reader, None) # Skipping header
                     for row in reader:
-                        if typ in row[2]:
+                        if typ in row[3]:
                             out_writer.writerow(row)
                             if typ == 'github':
-                                repos.add(self.parse_github_repo(row[2]))
+                                repos.add(self.parse_github_repo(row[3]))
                                 print(row)
                 except csv.Error, e:
                     sys.exit('Error reading file %s, line %d: %s' % (self.parsed_listing, reader.line_num, e))
