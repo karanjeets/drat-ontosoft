@@ -10,6 +10,7 @@ import json
 import argparse
 import requests
 import rdflib
+import csv
 
 
 class ParseListing(object):
@@ -21,7 +22,7 @@ class ParseListing(object):
     def __init__(self, listing_url, output):
         self.listing_url = listing_url
         self.output = output
-        self.csv_headers = ['"Name"', '"Description"', '"Location"']
+        self.csv_headers = ['"ID"', '"Name"', '"Description"', '"Location"']
 
     @staticmethod
     def fetch_content(url):
@@ -34,13 +35,15 @@ class ParseListing(object):
         listing = json.loads(listing_content)
         with open(self.output, 'wb') as out:
             out.write(','.join(self.csv_headers) + "\n")
+            csvwriter = csv.writer(out, delimiter=',', quotechar='"')
             for software in listing:
-                row = ''
-                row += '"' + software['label'] + '",'
+                row = list()
+                row.append(software['id'].encode('utf8'))
+                row.append(software['label'].encode('utf8'))
                 if software['description']:
-                    row += '"' + software['description'] + '",'
+                    row.append(software['description'].encode('utf8'))
                 else:
-                    row += '"",'
+                    row.append("")
                 details = self.fetch_content(software['id'])
                 graph = rdflib.Graph()
                 graph.parse(data=details, format="application/rdf+xml")
@@ -54,11 +57,10 @@ class ParseListing(object):
                     continue
                 for subject, predicate, obj in graph:
                     if subject == loc_key and 'hasURI' in predicate:
-                        row += '"' + obj.toPython() + '"'
+                        row.append(obj.toPython().encode('utf8'))
                         break
-                row += "\n"
                 #print(row)
-                out.write(row.encode('utf8'))
+                csvwriter.writerow(row)
 
 
 if __name__ == '__main__':
